@@ -1,9 +1,7 @@
-### Hi there, I'm Jesse - aka [jamesbachini][website] 👋 
+### James Bachini[website] @ Github
 
 [![Website](https://img.shields.io/website?label=jamesbachini.com&style=for-the-badge&url=https%3A%2F%2Fjamesbachini.com)](https://jamesbachini.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/james_bachini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=jamesbachini)
-
-## James Bachini
 
 I dabble in blockchain development, systems trading and yield farming.
 
