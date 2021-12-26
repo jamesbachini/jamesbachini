@@ -34,6 +34,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://jamesbachini.com/blockchain-developer/)
+- [Crypto Market Volatility | List Of 100 Altcoin Betas Relative To Bitcoin](https://jamesbachini.com/crypto-market-volatility/)
+- [How To Create A TradingView Indicator | Easy Pinescript 5 Tutorial](https://jamesbachini.com/tradingview-indicator/)
+- [DeFi Risk | A Framework For Assessing &amp; Managing Risk in DeFi](https://jamesbachini.com/defi-risk/)
+- [How To Clone Safemoon](https://jamesbachini.com/how-to-clone-safemoon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
