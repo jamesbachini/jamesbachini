@@ -11,9 +11,12 @@ I dabble in blockchain development, systems trading and yield farming.
 <br />
 📺 [https://youtube.com/jamesbachini](https://www.youtube.com/c/JamesBachini?sub_confirmation=1)
 <br />
-🐦 [@https://twitter.com/james_bachini](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=jamesbachini)
+🐦 [https://twitter.com/james_bachini](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=jamesbachini)
 <br />
 👔 https://linkedin.com/in/jamesbachini
+<br />
+✉️ https://jamesbachini.com/contact/
+
 <br />
 <br />
 
