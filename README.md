@@ -1,4 +1,4 @@
-### [James Bachini][website] @ Github
+### [James Bachini][website] @ ⚙️Github
 
 [![Website](https://img.shields.io/website?label=jamesbachini.com&style=for-the-badge&url=https%3A%2F%2Fjamesbachini.com)](https://jamesbachini.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/james_bachini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=jamesbachini)
@@ -6,19 +6,12 @@
 I dabble in blockchain development, systems trading and yield farming.
 
 ### Connect with me:
-<style>
-lighter{
-  filter: fill: rgb(1,1,1); brightness(1000%);
-}
-</style>
-[<img align="left" alt="jamesbachini.com" width="22px" style="filter: brightness(119%); fill: rgb(1,1,1); contrast(119%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="jamesbachini | YouTube" width="22px" style="filter: brightness(119%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-<lighter>
-[<img align="left" alt="jamesbachini | Twitter" width="22px" style="filter: fill: rgb(1,1,1); brightness(1000%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-</lighter>
-[<img align="left" alt="jamesbachini | LinkedIn" width="22px" style="filter: brightness(0.5) sepia(1) hue-rotate(140deg) saturate(6);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+🌐 [website]
+🎞️ [youtube]
+🐦 [twitter]
+👔 [linkedin]
+
 <br />
 
 ---
