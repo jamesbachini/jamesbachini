@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crypto Market Thesis 2022 &amp; Current Portfolio Holdings](https://www.youtube.com/watch?v=ogBcbwuasWw)
 - [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://www.youtube.com/watch?v=h-IcAZX7250)
 - [Astroport | Decision Time Tokenomics For The Terra DEX](https://www.youtube.com/watch?v=-zs0-wZ17i0)
 - [Crypto Market Volatility | Analysing 100 Altcoins vs Bitcoin](https://www.youtube.com/watch?v=ZE8xiN-zkk0)
 - [How To Create A TradingView Indicator | Easy Pinescript 5 Tutorial](https://www.youtube.com/watch?v=gWw6Hv3CuBU)
-- [DeFi Risk | What You Need To Know](https://www.youtube.com/watch?v=jSOSnKujb8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
