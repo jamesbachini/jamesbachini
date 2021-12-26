@@ -1,4 +1,4 @@
-### James Bachini[website] @ Github
+### [James Bachini][website] @ Github
 
 [![Website](https://img.shields.io/website?label=jamesbachini.com&style=for-the-badge&url=https%3A%2F%2Fjamesbachini.com)](https://jamesbachini.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/james_bachini?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fjamesbachini&screen_name=jamesbachini)
@@ -34,21 +34,6 @@ I dabble in blockchain development, systems trading and yield farming.
 ➡️ [more blog posts...](https://jamesbachini.com)
 
 ---
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="jamesbachini's GitHub Stats" src="https://github-readme-stats.jamesbachini.vercel.app/api?username=jamesbachini&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://jamesbachini.com
 [twitter]: https://twitter.com/james_bachini
