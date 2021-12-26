@@ -33,7 +33,7 @@ I dabble in blockchain development, systems trading and yield farming.
 
 ---
 
-### 📕 Latest Blog Posts
+### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://jamesbachini.com/blockchain-developer/)
