@@ -6,10 +6,16 @@
 I dabble in blockchain development, systems trading and yield farming.
 
 ### Connect with me:
-
+<style>
+lighter{
+  filter: fill: rgb(1,1,1); brightness(1000%);
+}
+</style>
 [<img align="left" alt="jamesbachini.com" width="22px" style="filter: brightness(119%); fill: rgb(1,1,1); contrast(119%);" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jamesbachini | YouTube" width="22px" style="filter: brightness(119%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+<lighter>
 [<img align="left" alt="jamesbachini | Twitter" width="22px" style="filter: fill: rgb(1,1,1); brightness(1000%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</lighter>
 [<img align="left" alt="jamesbachini | LinkedIn" width="22px" style="filter: brightness(0.5) sepia(1) hue-rotate(140deg) saturate(6);" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
