@@ -20,6 +20,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://www.youtube.com/watch?v=h-IcAZX7250)
+- [Astroport | Decision Time Tokenomics For The Terra DEX](https://www.youtube.com/watch?v=-zs0-wZ17i0)
+- [Crypto Market Volatility | Analysing 100 Altcoins vs Bitcoin](https://www.youtube.com/watch?v=ZE8xiN-zkk0)
+- [How To Create A TradingView Indicator | Easy Pinescript 5 Tutorial](https://www.youtube.com/watch?v=gWw6Hv3CuBU)
+- [DeFi Risk | What You Need To Know](https://www.youtube.com/watch?v=jSOSnKujb8k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
@@ -29,6 +34,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://jamesbachini.com/blockchain-developer/)
+- [Crypto Market Volatility | List Of 100 Altcoin Betas Relative To Bitcoin](https://jamesbachini.com/crypto-market-volatility/)
+- [How To Create A TradingView Indicator | Easy Pinescript 5 Tutorial](https://jamesbachini.com/tradingview-indicator/)
+- [DeFi Risk | A Framework For Assessing &amp; Managing Risk in DeFi](https://jamesbachini.com/defi-risk/)
+- [How To Clone Safemoon](https://jamesbachini.com/how-to-clone-safemoon/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
