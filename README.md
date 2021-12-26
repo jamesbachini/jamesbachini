@@ -5,7 +5,7 @@
 
 I dabble in blockchain development, systems trading and yield farming.
 
-### Connect with me:
+### 👋 Connect With Me
 
 🌐 https://jamesbachini.com
 <br />
@@ -16,9 +16,6 @@ I dabble in blockchain development, systems trading and yield farming.
 👔 https://linkedin.com/in/jamesbachini
 <br />
 ✉️ https://jamesbachini.com/contact/
-
-<br />
-<br />
 
 ---
 
