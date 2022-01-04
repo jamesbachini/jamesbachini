@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Real Bedford FC | The ₿itcoin Football Club Story](https://jamesbachini.com/bedford-fc/)
 - [Curve Wars | The Best Way To Gain Exposure To The Curve Wars](https://jamesbachini.com/curve-wars/)
 - [Crypto Market Thesis 2022 &amp; Current Portfolio Holdings](https://jamesbachini.com/crypto-market-thesis-2022/)
 - [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://jamesbachini.com/blockchain-developer/)
 - [Crypto Market Volatility | List Of 100 Altcoin Betas Relative To Bitcoin](https://jamesbachini.com/crypto-market-volatility/)
-- [How To Create A TradingView Indicator | Easy Pinescript 5 Tutorial](https://jamesbachini.com/tradingview-indicator/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
