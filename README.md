@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Multichain | The Billion Dollar Cross-Chain Bridge](https://www.youtube.com/watch?v=E2p2C-_-Byc)
 - [Real Bedford FC | The ₿itcoin Football Club Story](https://www.youtube.com/watch?v=lVNCNez9CyA)
 - [How I Gained Exposure To The Curve Wars](https://www.youtube.com/watch?v=anIuD4AgErU)
 - [Crypto Market Thesis 2022 &amp; Current Portfolio Holdings](https://www.youtube.com/watch?v=ogBcbwuasWw)
 - [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://www.youtube.com/watch?v=h-IcAZX7250)
-- [Astroport | Decision Time Tokenomics For The Terra DEX](https://www.youtube.com/watch?v=-zs0-wZ17i0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
