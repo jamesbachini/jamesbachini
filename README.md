@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Truth About Where Yield Comes From In DeFi](https://jamesbachini.com/yield/)
 - [How To Make Cross Chain Transfers With Multichain](https://jamesbachini.com/multichain/)
 - [Real Bedford FC | The ₿itcoin Football Club Story](https://jamesbachini.com/bedford-fc/)
 - [Curve Wars | The Best Way To Gain Exposure To The Curve Wars](https://jamesbachini.com/curve-wars/)
 - [Crypto Market Thesis 2022 &amp; Current Portfolio Holdings](https://jamesbachini.com/crypto-market-thesis-2022/)
-- [Blockchain Developer Roadmap 2022 | A Guide To Learning Blockchain Development](https://jamesbachini.com/blockchain-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
