@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Where Yield Comes From | #Crypto #Shorts](https://www.youtube.com/watch?v=qiE-ccUjjwk)
 - [The Truth About Where Yield Comes From In DeFi](https://www.youtube.com/watch?v=na9xQySLTWE)
 - [Multichain | The Billion Dollar Cross-Chain Bridge](https://www.youtube.com/watch?v=E2p2C-_-Byc)
 - [Real Bedford FC | The ₿itcoin Football Club Story](https://www.youtube.com/watch?v=lVNCNez9CyA)
 - [How I Gained Exposure To The Curve Wars](https://www.youtube.com/watch?v=anIuD4AgErU)
-- [Crypto Market Thesis 2022 &amp; Current Portfolio Holdings](https://www.youtube.com/watch?v=ogBcbwuasWw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
