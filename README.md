@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Understanding Squeeth | A Token To Track ETH² From Opyn](https://www.youtube.com/watch?v=PcbyWwN0bTw)
 - [Yield Farming On Near Protocol&#39;s Aurora Blockchain With Trisolaris](https://www.youtube.com/watch?v=ePMaHtj3440)
 - [Where Yield Comes From | #Crypto #Shorts](https://www.youtube.com/watch?v=qiE-ccUjjwk)
 - [The Truth About Where Yield Comes From In DeFi](https://www.youtube.com/watch?v=na9xQySLTWE)
 - [Multichain | The Billion Dollar Cross-Chain Bridge](https://www.youtube.com/watch?v=E2p2C-_-Byc)
-- [Real Bedford FC | The ₿itcoin Football Club Story](https://www.youtube.com/watch?v=lVNCNez9CyA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
