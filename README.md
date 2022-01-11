@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Squeeth | A Token To Track ETH² From Opyn](https://jamesbachini.com/squeeth/)
 - [Aurora | Near Protocol’s Explosive EVM Blockchain](https://jamesbachini.com/aurora-near-protocol-trisolaris/)
 - [The Truth About Where Yield Comes From In DeFi](https://jamesbachini.com/yield/)
 - [How To Make Cross Chain Transfers With Multichain](https://jamesbachini.com/multichain/)
 - [Real Bedford FC | The ₿itcoin Football Club Story](https://jamesbachini.com/bedford-fc/)
-- [Curve Wars | The Best Way To Gain Exposure To The Curve Wars](https://jamesbachini.com/curve-wars/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
