@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Synthetic Assets | A Regulatory Nightmare](https://jamesbachini.com/synthetic-assets/)
+- [The Rise Of Automated Market Makers](https://jamesbachini.com/automated-market-maker/)
+- [The Token Economy](https://jamesbachini.com/token-economy/)
+- [The Truth About dApps &amp; Web3](https://jamesbachini.com/dapps/)
 - [Smart Contracts Simply Explained](https://jamesbachini.com/smart-contracts/)
-- [History of Cryptocurrency | How Bitcoin &amp; Ethereum Created A Trillion Dollar Asset Class](https://jamesbachini.com/history-of-cryptocurrency/)
-- [Understanding Squeeth | A Token To Track ETH² From Opyn](https://jamesbachini.com/squeeth/)
-- [Aurora | Near Protocol’s Explosive EVM Blockchain](https://jamesbachini.com/aurora-near-protocol-trisolaris/)
-- [The Truth About Where Yield Comes From In DeFi](https://jamesbachini.com/yield/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
