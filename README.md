@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Crypto Oracles | Moving Data On-Chain](https://jamesbachini.com/crypto-oracles/)
+- [DeFi Borrowing &amp; Lending](https://jamesbachini.com/defi-borrowing-lending/)
 - [USD Stablecoins Compared | USDT vs USDC vs UST vs MIM vs DAI vs FRAX](https://jamesbachini.com/stablecoins/)
 - [Synthetic Assets | A Regulatory Nightmare](https://jamesbachini.com/synthetic-assets/)
 - [The Rise Of Automated Market Makers](https://jamesbachini.com/automated-market-maker/)
-- [The Token Economy](https://jamesbachini.com/token-economy/)
-- [The Truth About dApps &amp; Web3](https://jamesbachini.com/dapps/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
