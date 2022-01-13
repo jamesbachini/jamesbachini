@@ -36,7 +36,7 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [DeFi Derivatives | A Complete List Of DeFi Options, Futures &amp; Structured Products](https://jamesbachini.com/defi-derivatives/)
+- [DeFi Derivatives | The 13 Market Leading DeFi Futures, Options, Synths, Indexes &amp; Staking Protocols](https://jamesbachini.com/defi-derivatives/)
 - [Token Launch Plan | Fair Launch vs Pre-Sale vs ICO vs IDO vs IEO](https://jamesbachini.com/token-launch/)
 - [Crypto Oracles | Moving Data On-Chain](https://jamesbachini.com/crypto-oracles/)
 - [DeFi Borrowing &amp; Lending](https://jamesbachini.com/defi-borrowing-lending/)
