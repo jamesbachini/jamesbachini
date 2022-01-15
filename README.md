@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Ethereum 2 Roadmap &amp; The Triple Halving Event](https://www.youtube.com/watch?v=q9jqwkP9740)
 - [DeFi Research Tip Wayback Machine #Crypto #Shorts](https://www.youtube.com/watch?v=sbKeUTXmQco)
 - [Quick Tip To Save Some Gas Fees #Crypto #Shorts](https://www.youtube.com/watch?v=vMJWIaDFmMk)
 - [Understanding Squeeth | A Token To Track ETH² From Opyn](https://www.youtube.com/watch?v=PcbyWwN0bTw)
 - [Yield Farming On Near Protocol&#39;s Aurora Blockchain With Trisolaris](https://www.youtube.com/watch?v=ePMaHtj3440)
-- [Where Yield Comes From | #Crypto #Shorts](https://www.youtube.com/watch?v=qiE-ccUjjwk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
