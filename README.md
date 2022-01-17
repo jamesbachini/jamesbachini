@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Automate Yield Farming | Harvesting Rewards With A Quick &amp; Dirty Script](https://jamesbachini.com/automate-yield-farming/)
 - [When Will Ethereum 2.0 Launch &amp; The Triple Halving Event](https://jamesbachini.com/ethereum-v2/)
 - [DeFi Derivatives | The 13 Market Leading DeFi Futures, Options, Synths, Indexes &amp; Staking Protocols](https://jamesbachini.com/defi-derivatives/)
 - [Token Launch Plan | Fair Launch vs Pre-Sale vs ICO vs IDO vs IEO](https://jamesbachini.com/token-launch/)
 - [Crypto Oracles | Moving Data On-Chain](https://jamesbachini.com/crypto-oracles/)
-- [DeFi Borrowing &amp; Lending](https://jamesbachini.com/defi-borrowing-lending/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
