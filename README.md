@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Rise Of DyDx | $1B+ DEX Demo &amp; Exploration Of DyDx Tokenomics](https://www.youtube.com/watch?v=G4Evnbja3-A)
 - [Introduction To DEX Arbitrage | Intermediate Solidity Tutorial](https://www.youtube.com/watch?v=JQU4xVEzphU)
 - [Is veDAO The Convex Of Fantom | The DAO Setup For ve&lpar;3,3&rpar;](https://www.youtube.com/watch?v=V5HQvs-Iejk)
 - [Automate Yield Farming Developer Tutorial | How I Build Simple Scripts To Harvest Rewards](https://www.youtube.com/watch?v=aoPuHVdbHYo)
 - [Ethereum 2 Roadmap &amp; The Triple Halving Event](https://www.youtube.com/watch?v=q9jqwkP9740)
-- [DeFi Research Tip Wayback Machine #Crypto #Shorts](https://www.youtube.com/watch?v=sbKeUTXmQco)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
