@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [EthGlobal Hackathon | Winning $4300 And Advice For Future Participants](https://jamesbachini.com/ethglobal-hackathon/)
 - [The Rise Of DyDx And Decentralized Trading](https://jamesbachini.com/dydx/)
 - [Introduction To DEX Arbitrage | Intermediate Solidity Tutorial](https://jamesbachini.com/dex-arbitrage/)
 - [How To Trade Crypto | Ultimate Guide To Trading Bitcoin, Ethereum &amp; Altcoins](https://jamesbachini.com/how-to-trade-crypto/)
 - [How To Automate Yield Farming | Harvesting Rewards With A Quick &amp; Dirty Script](https://jamesbachini.com/automate-yield-farming/)
-- [When Will Ethereum 2.0 Launch &amp; The Triple Halving Event](https://jamesbachini.com/ethereum-v2/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
