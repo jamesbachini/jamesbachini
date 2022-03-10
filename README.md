@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Generate Artwork For 10000 NFT&#39;s With Jang.js](https://www.youtube.com/watch?v=6M593HqODhY)
 - [3 High Yielding Stablecoin Strategies For 2022](https://www.youtube.com/watch?v=zDXYaH6hS6o)
 - [EthGlobal Hackathon | Winning $4300 And Advice For Future Participants](https://www.youtube.com/watch?v=2U7ezy93LYM)
 - [The Rise Of DyDx | $1B+ DEX Demo &amp; Exploration Of DyDx Tokenomics](https://www.youtube.com/watch?v=G4Evnbja3-A)
 - [Introduction To DEX Arbitrage | Intermediate Solidity Tutorial](https://www.youtube.com/watch?v=JQU4xVEzphU)
-- [Is veDAO The Convex Of Fantom | The DAO Setup For ve&lpar;3,3&rpar;](https://www.youtube.com/watch?v=V5HQvs-Iejk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
