@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prevent Phishing | 8 Tips To Avoid Getting Your Crypto Hacked](https://jamesbachini.com/prevent-phishing/)
 - [How To Generate Artwork For NFT’s With Jang.js](https://jamesbachini.com/how-to-generate-artwork-for-nfts/)
 - [3 Yield Farming Stablecoin Strategies](https://jamesbachini.com/stablecoin-strategies/)
 - [Tokenomics Boilerplate | Governance Tokens, Uniswap Buy-Backs and Staking in Solidity](https://jamesbachini.com/tokenomics-boilerplate/)
 - [EthGlobal Hackathon | Winning $4300 And Advice For Future Participants](https://jamesbachini.com/ethglobal-hackathon/)
-- [The Rise Of DyDx And Decentralized Trading](https://jamesbachini.com/dydx/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
