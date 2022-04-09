@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Why The PoS Cash &amp; Carry Trade Will Generate $100B TVL](https://www.youtube.com/watch?v=6DhgT12IARY)
 - [5 Growth Metrics For DeFi Protocols](https://www.youtube.com/watch?v=Dw5CtBKI85I)
 - [8 Tips To Avoid Getting Your Crypto Hacked](https://www.youtube.com/watch?v=7XW9MZcOjmQ)
 - [How To Generate Artwork For 10000 NFT&#39;s With Jang.js](https://www.youtube.com/watch?v=6M593HqODhY)
 - [3 High Yielding Stablecoin Strategies For 2022](https://www.youtube.com/watch?v=zDXYaH6hS6o)
-- [EthGlobal Hackathon | Winning $4300 And Advice For Future Participants](https://www.youtube.com/watch?v=2U7ezy93LYM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
