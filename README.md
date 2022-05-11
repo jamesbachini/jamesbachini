@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blood in the streets for crypto markets](https://jamesbachini.com/blood-in-the-streets/)
 - [Foundry Tutorial | How To Debug &amp; Deploy Solidity Smart Contracts](https://jamesbachini.com/foundry-tutorial/)
 - [Which Token Will Coinbase List Next?](https://jamesbachini.com/which-token-will-coinbase-list-next/)
 - [Why The PoS Basis Trade Will Generate $100B TVL](https://jamesbachini.com/pos-basis-trade/)
 - [5 DeFi Growth Metrics For Better Valuations](https://jamesbachini.com/defi-growth-metrics/)
-- [Prevent Phishing | 8 Tips To Avoid Getting Your Crypto Hacked](https://jamesbachini.com/prevent-phishing/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
