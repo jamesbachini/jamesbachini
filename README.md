@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solidity Interface Tutorial | How To Connect The Lego Bricks Of DeFi](https://www.youtube.com/watch?v=GWZmklp7RTg)
 - [Thank you @EatTheBlocks](https://www.youtube.com/watch?v=B5_9ZM_GVqE)
 - [Foundry Tutorial | Debug &amp; Deploy Solidity Smart Contracts](https://www.youtube.com/watch?v=VhaP9kYvlOA)
 - [Analysing The Coinbase &quot;Under Review&quot; List](https://www.youtube.com/watch?v=cT-QMk5hIAU)
 - [Why The PoS Cash &amp; Carry Trade Will Generate $100B TVL](https://www.youtube.com/watch?v=6DhgT12IARY)
-- [5 Growth Metrics For DeFi Protocols](https://www.youtube.com/watch?v=Dw5CtBKI85I)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
