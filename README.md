@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SBTs 👻 | Soulbound Token Solidity Example](https://jamesbachini.com/souldbound-token/)
 - [Solidity Interface Examples | How To Connect The Lego Bricks Of DeFi](https://jamesbachini.com/solidity-interface/)
 - [Hardhat Plugins &amp; Hacks For Solidity Developers](https://jamesbachini.com/hardhat-plugins/)
 - [Blood in the streets for crypto markets](https://jamesbachini.com/blood-in-the-streets/)
 - [Foundry Tutorial | How To Debug &amp; Deploy Solidity Smart Contracts](https://jamesbachini.com/foundry-tutorial/)
-- [Which Token Will Coinbase List Next?](https://jamesbachini.com/which-token-will-coinbase-list-next/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
