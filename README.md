@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
 - [Solidity for Beginners](https://jamesbachini.com/solidity-for-beginners/)
 - [GameFi 2.0 | Sustainable Tokenomics &amp; Business Models](https://jamesbachini.com/gamefi/)
 - [Bear Markets | How Human Psychology Works Against Us](https://jamesbachini.com/bear-markets/)
 - [SBTs 👻 | Soulbound Token Solidity Example](https://jamesbachini.com/souldbound-token/)
-- [Solidity Interface Examples | How To Connect The Lego Bricks Of DeFi](https://jamesbachini.com/solidity-interface/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
