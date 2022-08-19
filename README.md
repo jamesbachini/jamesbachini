@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Twitter Crypto Ads  | Blockchain Advertising Is Live On Twitter](https://jamesbachini.com/twitter-crypto-ads/)
 - [Dune Analytics Tutorial | How To Create A Dune Analytics Dashboard](https://jamesbachini.com/dune-analytics-tutorial/)
 - [Ownable vs Permissionless Smart Contracts](https://jamesbachini.com/permissionless-smart-contracts/)
 - [Solidity Tutorial | Fixed Rate Staking Contract](https://jamesbachini.com/fixed-rate-staking/)
 - [Zero Knowledge Proof | How ZKP Works In Blockchain Applications](https://jamesbachini.com/zero-knowledge-proof/)
-- [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
