@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aligning Founders, VC’s and Stakeholders Interests In A Smart Contract](https://jamesbachini.com/vc-unlock-smart-contract/)
 - [Twitter Crypto Ads  | Blockchain Advertising Is Live On Twitter](https://jamesbachini.com/twitter-crypto-ads/)
 - [Dune Analytics Tutorial | How To Create A Dune Analytics Dashboard](https://jamesbachini.com/dune-analytics-tutorial/)
 - [Ownable vs Permissionless Smart Contracts](https://jamesbachini.com/permissionless-smart-contracts/)
 - [Solidity Tutorial | Fixed Rate Staking Contract](https://jamesbachini.com/fixed-rate-staking/)
-- [Zero Knowledge Proof | How ZKP Works In Blockchain Applications](https://jamesbachini.com/zero-knowledge-proof/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
