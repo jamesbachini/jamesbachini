@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [NEW: The Blockchain Sector Newsletter #shorts](https://www.youtube.com/watch?v=cBDHv0kV4Q8)
 - [Use Solidity To Deploy Your Contracts](https://www.youtube.com/watch?v=5yeHCU1ARSs)
 - [Quick Solidity Tutorial | Fixed Rate Staking Contract](https://www.youtube.com/watch?v=asoRKyDY_RY)
 - [Zero Knowledge Proof | Learn How ZKP Works In Under 5 Minutes](https://www.youtube.com/watch?v=zSdbkLk3xnE)
 - [I Built An Ethereum Hacker Game](https://www.youtube.com/watch?v=OQo2W5Sog0Q)
-- [How To Use Assembly In Solidity](https://www.youtube.com/watch?v=1Mr_wWrB7iw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Aligning Founders, VC’s and Stakeholders Interests In A Smart Contract](https://jamesbachini.com/vc-unlock-smart-contract/)
+- [Twitter Crypto Ads  | Blockchain Advertising Is Live On Twitter](https://jamesbachini.com/twitter-crypto-ads/)
+- [Dune Analytics Tutorial | How To Create A Dune Analytics Dashboard](https://jamesbachini.com/dune-analytics-tutorial/)
 - [Ownable vs Permissionless Smart Contracts](https://jamesbachini.com/permissionless-smart-contracts/)
 - [Solidity Tutorial | Fixed Rate Staking Contract](https://jamesbachini.com/fixed-rate-staking/)
-- [Zero Knowledge Proof | How ZKP Works In Blockchain Applications](https://jamesbachini.com/zero-knowledge-proof/)
-- [3 Examples Of How To Use Assembly In Solidity](https://jamesbachini.com/assembly-in-solidity/)
-- [Solidity for Beginners](https://jamesbachini.com/solidity-for-beginners/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
