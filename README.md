@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Crypto Security #shorts](https://www.youtube.com/watch?v=JkQL_sJUKC0)
 - [BRICS #shorts](https://www.youtube.com/watch?v=fBX8fAvdfk0)
 - [NEW: The Blockchain Sector Newsletter #shorts](https://www.youtube.com/watch?v=cBDHv0kV4Q8)
 - [Use Solidity To Deploy Your Contracts](https://www.youtube.com/watch?v=5yeHCU1ARSs)
 - [Quick Solidity Tutorial | Fixed Rate Staking Contract](https://www.youtube.com/watch?v=asoRKyDY_RY)
-- [Zero Knowledge Proof | Learn How ZKP Works In Under 5 Minutes](https://www.youtube.com/watch?v=zSdbkLk3xnE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
