@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Token Factory Contract Walkthrough](https://jamesbachini.com/token-factory/)
 - [Trading The Merge](https://jamesbachini.com/trading-the-merge/)
 - [The State Of CBDC Central Bank Digital Currency](https://jamesbachini.com/cbdc/)
 - [Aligning Founders, VC’s and Stakeholders Interests In A Smart Contract](https://jamesbachini.com/vc-unlock-smart-contract/)
 - [Twitter Crypto Ads  | Blockchain Advertising Is Live On Twitter](https://jamesbachini.com/twitter-crypto-ads/)
-- [Dune Analytics Tutorial | How To Create A Dune Analytics Dashboard](https://jamesbachini.com/dune-analytics-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
