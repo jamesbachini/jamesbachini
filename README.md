@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Yield Futures With Resonate Finance](https://www.youtube.com/watch?v=GnVZoiq581g)
 - [Solidity Token Factory Contract](https://www.youtube.com/watch?v=MY9SoGPGVoo)
 - [Trading The Merge](https://www.youtube.com/watch?v=3ltpF4UGir4)
 - [Crypto Security #shorts](https://www.youtube.com/watch?v=JkQL_sJUKC0)
 - [BRICS #shorts](https://www.youtube.com/watch?v=fBX8fAvdfk0)
-- [NEW: The Blockchain Sector Newsletter #shorts](https://www.youtube.com/watch?v=cBDHv0kV4Q8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
