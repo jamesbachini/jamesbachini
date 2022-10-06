@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Yield Futures With Resonate Finance](https://www.youtube.com/watch?v=GnVZoiq581g)
-- [Solidity Token Factory Contract](https://www.youtube.com/watch?v=MY9SoGPGVoo)
-- [Trading The Merge](https://www.youtube.com/watch?v=3ltpF4UGir4)
-- [Crypto Security #shorts](https://www.youtube.com/watch?v=JkQL_sJUKC0)
-- [BRICS #shorts](https://www.youtube.com/watch?v=fBX8fAvdfk0)
+- [Web3 Tutorial - 10. Ethereum Mainnet Deployment](https://www.youtube.com/watch?v=rTqGCQ8V05c)
+- [Web3 Tutorial - 9. Hardhat Deployment Script](https://www.youtube.com/watch?v=5bdDs8HeN5o)
+- [Web3 Tutorial - 8. Testing With Hardhat](https://www.youtube.com/watch?v=olZGZ7inhxU)
+- [Web3 Tutorial - 7. Publishing To Github Pages](https://www.youtube.com/watch?v=4Yy3_ZC81Hs)
+- [Web3 Tutorial - 6. Updating Live Balances](https://www.youtube.com/watch?v=OsHtp3Czrsg)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
