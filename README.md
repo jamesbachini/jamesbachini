@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#DevCon Days 4+ #shorts](https://www.youtube.com/watch?v=ARhnCARRMq4)
 - [Ethereum DevCon days 2 &amp; 3 #shorts](https://www.youtube.com/watch?v=CqX2tI6RSVg)
 - [Ethereum DevCon Day 0 #shorts](https://www.youtube.com/watch?v=lXi19MY4Fvk)
 - [Web3 Tutorial - 10. Ethereum Mainnet Deployment](https://www.youtube.com/watch?v=rTqGCQ8V05c)
 - [Web3 Tutorial - 9. Hardhat Deployment Script](https://www.youtube.com/watch?v=5bdDs8HeN5o)
-- [Web3 Tutorial - 8. Testing With Hardhat](https://www.youtube.com/watch?v=olZGZ7inhxU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
