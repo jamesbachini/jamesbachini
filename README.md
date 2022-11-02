@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SAFT Example Contract | Simple Agreement Future Tokens](https://www.youtube.com/watch?v=hpsegda6gvo)
 - [Just In Time Liquidity #JIT](https://www.youtube.com/watch?v=7C5uHVJ-MGg)
 - [Ethereum DevCon Takeaways &amp; Favourite Talks](https://www.youtube.com/watch?v=kgiAV7z1fwo)
 - [#DevCon Days 4+ #shorts](https://www.youtube.com/watch?v=ARhnCARRMq4)
 - [Ethereum DevCon days 2 &amp; 3 #shorts](https://www.youtube.com/watch?v=CqX2tI6RSVg)
-- [Ethereum DevCon Day 0 #shorts](https://www.youtube.com/watch?v=lXi19MY4Fvk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
