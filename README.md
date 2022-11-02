@@ -36,7 +36,7 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [SAFT Template | Simple Agreement For Future Tokens](https://jamesbachini.com/saft/)
+- [SAFT Template | Simple Agreement Future Tokens](https://jamesbachini.com/saft/)
 - [Ethereum DevCon Bogotá Write Up](https://jamesbachini.com/devcon-bogota/)
 - [Complete Introduction To Web3 Tutorial | Fullstack Web3 Development Tutorial](https://jamesbachini.com/web3-tutorial/)
 - [Yield Futures With Resonate Finance](https://jamesbachini.com/resonate-finance/)
