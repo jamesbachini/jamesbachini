@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [POAP vs NFT | A Guide With Examples](https://jamesbachini.com/poap-vs-nft/)
 - [SAFT Template | Simple Agreement Future Tokens](https://jamesbachini.com/saft/)
 - [Ethereum DevCon Bogotá Write Up](https://jamesbachini.com/devcon-bogota/)
 - [Complete Introduction To Web3 Tutorial | Fullstack Web3 Development Tutorial](https://jamesbachini.com/web3-tutorial/)
 - [Yield Futures With Resonate Finance](https://jamesbachini.com/resonate-finance/)
-- [Solidity Token Factory Contract Walkthrough](https://jamesbachini.com/token-factory/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
