@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Dynamic Evolving NFTs | How To Create Dynamic NFTs &amp; dApps](https://jamesbachini.com/dynamic-nfts/)
 - [FTX Collapse Explained | The Story Of Scam Bankrun Fraud](https://jamesbachini.com/ftx-collapse/)
 - [POAP vs NFT | A Guide With Examples](https://jamesbachini.com/poap-vs-nft/)
 - [SAFT Template | Simple Agreement Future Tokens](https://jamesbachini.com/saft/)
 - [Ethereum DevCon Bogotá Write Up](https://jamesbachini.com/devcon-bogota/)
-- [Complete Introduction To Web3 Tutorial | Fullstack Web3 Development Tutorial](https://jamesbachini.com/web3-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
