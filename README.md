@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Timeframe &amp; Budget For Web3 Development](https://www.youtube.com/watch?v=OiILAG9x25I)
 - [Bitcoin Market Cycle Things](https://www.youtube.com/watch?v=sWbtAhXkWgw)
 - [FTX Collapse Explained | The Story Of Scam Bankrun Fraud](https://www.youtube.com/watch?v=j2sPqsVIR9U)
 - [POAP vs NFT](https://www.youtube.com/watch?v=OXlCGkjH5vg)
 - [#Binance Vs #FTX as CZ and SBF lock horns 🍿](https://www.youtube.com/watch?v=rnFiTRxYLgM)
-- [SAFT Example Contract | Simple Agreement Future Tokens](https://www.youtube.com/watch?v=hpsegda6gvo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
