@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [LayerZero Example | How To Send Cross-Chain Messages In Solidity](https://jamesbachini.com/layerzero-example/)
 - [RAILGUN 2.0 | ZK Privacy Protocol](https://jamesbachini.com/railgun/)
 - [Timeframe &amp; Budgets For Web3 Development](https://jamesbachini.com/web3-development/)
 - [Dynamic Evolving NFTs | How To Create Dynamic NFTs &amp; dApps](https://jamesbachini.com/dynamic-nfts/)
 - [FTX Collapse Explained | The Story Of Scam Bankrun Fraud](https://jamesbachini.com/ftx-collapse/)
-- [POAP vs NFT | A Guide With Examples](https://jamesbachini.com/poap-vs-nft/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
