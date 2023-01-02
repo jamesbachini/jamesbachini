@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remixd Tutorial | How To Take The Solidity IDE To The Next Level](https://jamesbachini.com/remixd-tutorial/)
 - [The Psychology Of Money | Book Summary](https://jamesbachini.com/psychology-of-money/)
 - [Mean Finance | How To DCA With DeFi](https://jamesbachini.com/mean-finance/)
 - [LayerZero Example | How To Send Cross-Chain Messages In Solidity](https://jamesbachini.com/layerzero-example/)
 - [RAILGUN 2.0 | ZK Privacy Protocol](https://jamesbachini.com/railgun/)
-- [Timeframe &amp; Budgets For Web3 Development](https://jamesbachini.com/web3-development/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
