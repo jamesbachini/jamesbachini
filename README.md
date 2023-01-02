@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [RemixD | How To Connect Remix To Local Filesystem](https://www.youtube.com/watch?v=g9cEbV2CNuA)
 - [Skeptical About Crypto #shorts](https://www.youtube.com/watch?v=IfGm7TgK6Yo)
 - [#Bitcoin and #crypto market cycles](https://www.youtube.com/watch?v=YNoTfB9mS5E)
 - [Creating an Erc20 token on Ethereum in 30s](https://www.youtube.com/watch?v=guflYtqv0ec)
 - [How To Send Cross-Chain Messages With LayerZero | Cross-Chain Tutorial](https://www.youtube.com/watch?v=rKVhQHmljXM)
-- [Exchange Reserve Assets #shorts](https://www.youtube.com/watch?v=z1tq8GUL52Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
