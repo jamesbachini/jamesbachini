@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advanced ChatGPT Prompt Engineering](https://jamesbachini.com/advanced-chatgpt-prompt-engineering/)
 - [Crypto Market Thesis 2023](https://jamesbachini.com/crypto-market-thesis-2023/)
 - [Remixd Tutorial | How To Take The Solidity IDE To The Next Level](https://jamesbachini.com/remixd-tutorial/)
 - [The Psychology Of Money | Book Summary](https://jamesbachini.com/psychology-of-money/)
 - [Mean Finance | How To DCA With DeFi](https://jamesbachini.com/mean-finance/)
-- [LayerZero Example | How To Send Cross-Chain Messages In Solidity](https://jamesbachini.com/layerzero-example/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
