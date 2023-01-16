@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
 - [#maximalism #ethereum #bitcoin #shorts](https://www.youtube.com/watch?v=4RMVaCKXHT8)
 - [Spend Less Time Debugging Solidity Smart Contracts](https://www.youtube.com/watch?v=wFdjVl05vuI)
 - [Cryptos Killer App #shorts](https://www.youtube.com/watch?v=Bd7k4yxRWA0)
 - [Crypto Market Thesis 2023](https://www.youtube.com/watch?v=t5OU1o8MwuY)
-- [CBDC Central Bank Digital Currencies #shorts](https://www.youtube.com/watch?v=FldAw3ANX0Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
