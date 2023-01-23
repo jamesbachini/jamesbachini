@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web3 Mobile UX #shorts](https://www.youtube.com/watch?v=yayUYPPSc58)
 - [Advanced MidJourney Prompt Engineering](https://www.youtube.com/watch?v=RdSZBWiHrKM)
 - [How to use a #DeX like #Uniswap #shorts](https://www.youtube.com/watch?v=Fd5fUyZLnrM)
 - [Advanced ChatGPT Prompt Engineering](https://www.youtube.com/watch?v=bBiTR_1sEmI)
 - [#maximalism #ethereum #bitcoin #shorts](https://www.youtube.com/watch?v=4RMVaCKXHT8)
-- [Spend Less Time Debugging Solidity Smart Contracts](https://www.youtube.com/watch?v=wFdjVl05vuI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
