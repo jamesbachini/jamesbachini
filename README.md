@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Stake Ethereum | The Easy Way To Earn Yield While Holding ETH](https://www.youtube.com/watch?v=kgKtnGYihWk)
 - [The #Blockchain Scalability Paradox #shorts](https://www.youtube.com/watch?v=ZdTAsdaGo8A)
 - [#GameFi  #Shorts](https://www.youtube.com/watch?v=A98Cu_S-_-0)
 - [How #Aave #DeFi borrowing &amp; lending works on #Ethereum #shorts](https://www.youtube.com/watch?v=JZi8dK77r_A)
 - [#ChatGPT #PromptEngineering #Shorts](https://www.youtube.com/watch?v=QneWOEX_RJg)
-- [Web3 Mobile UX #shorts](https://www.youtube.com/watch?v=yayUYPPSc58)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
