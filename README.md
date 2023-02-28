@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [The Feynman Technique 2.0](https://www.youtube.com/watch?v=0d_r7o-PkWw)
 - [Why #Decentralization Is Disruptive #shorts](https://www.youtube.com/watch?v=aeqR_LXOJR8)
 - [Anonymous Developer Tutorial | Setting Up Anon Accounts](https://www.youtube.com/watch?v=Go-Fzbr45A4)
 - [How To Set Up A #Solidity IDE #shorts](https://www.youtube.com/watch?v=g2MbX5oSdr4)
 - [How To Stake Ethereum | The Easy Way To Earn Yield While Holding ETH](https://www.youtube.com/watch?v=kgKtnGYihWk)
-- [The #Blockchain Scalability Paradox #shorts](https://www.youtube.com/watch?v=ZdTAsdaGo8A)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
