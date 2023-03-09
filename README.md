@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [zkEVM | Are Zero-Knowledge Rollups The Future Of Ethereum Or A Ticking Time Bomb?](https://jamesbachini.com/zkevm/)
 - [ETHDenver | Thoughts &amp; Takeaways From The Biggest US Blockchain Conference](https://jamesbachini.com/ethdenver/)
 - [The Feynman Technique 2.0](https://jamesbachini.com/feynman-technique/)
 - [Anonymous Developer Tutorial | How &amp; Why You Should Code Anonymously](https://jamesbachini.com/anonymous-developer/)
 - [How To Stake Ethereum | Earn More Yield With Ethereum Staking](https://jamesbachini.com/how-to-stake-ethereum/)
-- [Advanced MidJourney Prompt Engineering | Unleash Your Inner Artist](https://jamesbachini.com/advanced-midjourney-prompt-engineering/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
