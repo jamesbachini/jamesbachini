@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How Do Oracles Like #Chainlink Work](https://www.youtube.com/watch?v=RrAxSfNhoes)
 - [The Secrets of zkEVM: A Deep Dive into Zero-Knowledge Rollups](https://www.youtube.com/watch?v=LtDtCgVztg4)
 - [#ethDenver #ethDenver2023](https://www.youtube.com/watch?v=piTEz3wMdQs)
 - [The Feynman Technique 2.0](https://www.youtube.com/watch?v=0d_r7o-PkWw)
 - [Why #Decentralization Is Disruptive #shorts](https://www.youtube.com/watch?v=aeqR_LXOJR8)
-- [Anonymous Developer Tutorial | Setting Up Anon Accounts](https://www.youtube.com/watch?v=Go-Fzbr45A4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
