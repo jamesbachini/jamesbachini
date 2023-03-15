@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [NEW: The Blockchain Sector Newsletter #shorts](https://www.youtube.com/watch?v=cBDHv0kV4Q8)
-- [Use Solidity To Deploy Your Contracts](https://www.youtube.com/watch?v=5yeHCU1ARSs)
-- [Quick Solidity Tutorial | Fixed Rate Staking Contract](https://www.youtube.com/watch?v=asoRKyDY_RY)
-- [Zero Knowledge Proof | Learn How ZKP Works In Under 5 Minutes](https://www.youtube.com/watch?v=zSdbkLk3xnE)
-- [I Built An Ethereum Hacker Game](https://www.youtube.com/watch?v=OQo2W5Sog0Q)
+- [How Do Oracles Like #Chainlink Work](https://www.youtube.com/watch?v=RrAxSfNhoes)
+- [The Secrets of zkEVM: A Deep Dive into Zero-Knowledge Rollups](https://www.youtube.com/watch?v=LtDtCgVztg4)
+- [#ethDenver #ethDenver2023](https://www.youtube.com/watch?v=piTEz3wMdQs)
+- [The Feynman Technique 2.0](https://www.youtube.com/watch?v=0d_r7o-PkWw)
+- [Why #Decentralization Is Disruptive #shorts](https://www.youtube.com/watch?v=aeqR_LXOJR8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aligning Founders, VC’s and Stakeholders Interests In A Smart Contract](https://jamesbachini.com/vc-unlock-smart-contract/)
-- [Twitter Crypto Ads  | Blockchain Advertising Is Live On Twitter](https://jamesbachini.com/twitter-crypto-ads/)
-- [Dune Analytics Tutorial | How To Create A Dune Analytics Dashboard](https://jamesbachini.com/dune-analytics-tutorial/)
-- [Ownable vs Permissionless Smart Contracts](https://jamesbachini.com/permissionless-smart-contracts/)
-- [Solidity Tutorial | Fixed Rate Staking Contract](https://jamesbachini.com/fixed-rate-staking/)
+- [ERC20 Carbon Credits | Creating A Depleting Token](https://jamesbachini.com/carbon-credits/)
+- [zkEVM | Are Zero-Knowledge Rollups The Future Of Ethereum Or A Ticking Time Bomb?](https://jamesbachini.com/zkevm/)
+- [ETHDenver | Thoughts &amp; Takeaways From The Biggest US Blockchain Conference](https://jamesbachini.com/ethdenver/)
+- [The Feynman Technique 2.0](https://jamesbachini.com/feynman-technique/)
+- [Anonymous Developer Tutorial | How &amp; Why You Should Code Anonymously](https://jamesbachini.com/anonymous-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
