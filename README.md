@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ERC721 vs ERC1155 | Solidity Tips &amp; Examples](https://jamesbachini.com/erc721-vs-erc1155/)
 - [ERC20 Carbon Credits | Creating A Depleting Token](https://jamesbachini.com/carbon-credits/)
 - [zkEVM | Are Zero-Knowledge Rollups The Future Of Ethereum Or A Ticking Time Bomb?](https://jamesbachini.com/zkevm/)
 - [ETHDenver | Thoughts &amp; Takeaways From The Biggest US Blockchain Conference](https://jamesbachini.com/ethdenver/)
 - [The Feynman Technique 2.0](https://jamesbachini.com/feynman-technique/)
-- [Anonymous Developer Tutorial | How &amp; Why You Should Code Anonymously](https://jamesbachini.com/anonymous-developer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
