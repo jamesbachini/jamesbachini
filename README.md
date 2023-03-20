@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arrays in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/arrays-in-solidity/)
 - [Get Contract Balance | Solidity Tips &amp; Examples](https://jamesbachini.com/get-contract-balance-solidity-tips-examples/)
 - [Mapping in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/mapping-in-solidity/)
 - [Variables in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/variables-in-solidity/)
 - [ERC721 vs ERC1155 | Solidity Tips &amp; Examples](https://jamesbachini.com/erc721-vs-erc1155/)
-- [ERC20 Carbon Credits | Creating A Depleting Token](https://jamesbachini.com/carbon-credits/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
