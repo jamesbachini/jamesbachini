@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modifiers in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/modifiers-in-solidity/)
 - [Struct in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/struct-in-solidity/)
 - [Ownable Contracts | Solidity Tips &amp; Examples](https://jamesbachini.com/ownable-contracts/)
 - [Payable Transfers | Solidity Tips &amp; Examples](https://jamesbachini.com/payable-transfers/)
 - [Solidity Interface | Solidity Tips &amp; Examples](https://jamesbachini.com/solidity-interface-2/)
-- [OpenZeppelin Libraries | Solidity Tips &amp; Examples](https://jamesbachini.com/openzeppelin-libraries/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
