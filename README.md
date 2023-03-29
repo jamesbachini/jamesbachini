@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Emit Events in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/events-in-solidity/)
 - [Bulk Send Tokens &amp; ETH Contract | Solidity Tips &amp; Examples](https://jamesbachini.com/bulk-send-solidity/)
 - [Multiple Return Values | Solidity Tips &amp; Examples](https://jamesbachini.com/multiple-return-values-solidity/)
 - [Modifiers in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/modifiers-in-solidity/)
 - [Struct in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/struct-in-solidity/)
-- [Ownable Contracts | Solidity Tips &amp; Examples](https://jamesbachini.com/ownable-contracts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
