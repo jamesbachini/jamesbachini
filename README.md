@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How The Twitter Algorithm Works](https://jamesbachini.com/twitter-algorithm/)
 - [ERC1155 Token Contract | Solidity Tips &amp; Examples](https://jamesbachini.com/erc1155-token/)
 - [ERC721 Token Contract | Solidity Tips &amp; Examples](https://jamesbachini.com/erc721-token/)
 - [ERC20 Token Contract | Solidity Tips &amp; Examples](https://jamesbachini.com/erc20-token/)
 - [Merkle Tree in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/merkle-tree/)
-- [How To Emit Events in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/events-in-solidity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
