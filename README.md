@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Libraries | Solidity Tips &amp; Examples](https://jamesbachini.com/solidity-libraries/)
 - [Random Numbers in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/random-numbers/)
 - [Conditional Statements &amp; Loops in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/conditional-statements-loops/)
 - [Natspec in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/natspec-in-solidity/)
 - [How The Twitter Algorithm Works](https://jamesbachini.com/twitter-algorithm/)
-- [ERC1155 Token Contract | Solidity Tips &amp; Examples](https://jamesbachini.com/erc1155-token/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
