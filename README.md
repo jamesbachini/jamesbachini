@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [encodeCall in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/encodecall/)
 - [GammaSwap Pepetual Futures | DeFi Analysis Report](https://jamesbachini.com/gammaswap/)
 - [Custom Error Handling in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/custom-error/)
 - [Timeswap v2 AMM Money Market | DeFi Analysis Report](https://jamesbachini.com/timeswap/)
 - [Solidity Libraries | Solidity Tips &amp; Examples](https://jamesbachini.com/solidity-libraries/)
-- [Random Numbers in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/random-numbers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
