@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strings in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/solidity-strings/)
 - [Renegade Dark Pool DEX](https://jamesbachini.com/renegade/)
 - [Timestamp in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/timestamp/)
 - [encodeCall in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/encodecall/)
 - [GammaSwap Pepetual Futures | DeFi Analysis Report](https://jamesbachini.com/gammaswap/)
-- [Custom Error Handling in Solidity | Solidity Tips &amp; Examples](https://jamesbachini.com/custom-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
