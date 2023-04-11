@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Merkle Tree Solidity Whitelist](https://www.youtube.com/watch?v=NTPpyL4pJG0)
 - [Evolving use cases for NFTs](https://www.youtube.com/watch?v=-Eq7W8sZ2y8)
 - [ERC721 vs ERC1155](https://www.youtube.com/watch?v=B64VBGt3tMU)
 - [How Do Oracles Like #Chainlink Work](https://www.youtube.com/watch?v=RrAxSfNhoes)
 - [The Secrets of zkEVM: A Deep Dive into Zero-Knowledge Rollups](https://www.youtube.com/watch?v=LtDtCgVztg4)
-- [#ethDenver #ethDenver2023](https://www.youtube.com/watch?v=piTEz3wMdQs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
