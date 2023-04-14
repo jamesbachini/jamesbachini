@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [CAP Theorem &amp; The Blockchain Trilemma](https://jamesbachini.com/cap-theorem-blockchain-trilemma/)
 - [Bitcoin Ordinals](https://jamesbachini.com/bitcoin-ordinals/)
 - [Solidity vs Vyper](https://jamesbachini.com/solidity-vs-vyper/)
 - [Autonomous AI Agents](https://jamesbachini.com/autonomous-ai-agents/)
 - [Sign In With Ethereum Tutorial](https://jamesbachini.com/sign-in-with-ethereum/)
-- [EigenLayer | DeFi Analysis Report](https://jamesbachini.com/eigenlayer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
