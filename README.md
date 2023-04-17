@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blockchain Jobs | A Definitive List Of Roles &amp; Salaries In Crypto](https://jamesbachini.com/blockchain-jobs/)
 - [DeFi Futures – GMX vs DyDx](https://jamesbachini.com/defi-futures/)
 - [Account Abstraction – ERC4337](https://jamesbachini.com/account-abstraction-erc4337/)
 - [CAP Theorem &amp; The Blockchain Trilemma](https://jamesbachini.com/cap-theorem-blockchain-trilemma/)
 - [Bitcoin Ordinals](https://jamesbachini.com/bitcoin-ordinals/)
-- [Solidity vs Vyper](https://jamesbachini.com/solidity-vs-vyper/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
