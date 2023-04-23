@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Advice For Hackathons | 9 Tips For Competing In Hackathons](https://jamesbachini.com/hackathons/)
 - [Frax Finance | DeFi Analysis Report](https://jamesbachini.com/frax-finance/)
 - [Monolithic vs Polylithic Blockchains](https://jamesbachini.com/monolithic-polylithic/)
 - [Web3 Investment Thesis](https://jamesbachini.com/web3-investment-thesis/)
 - [Private Funding vs Public Funding Rounds | How To Raise Capital In Crypto](https://jamesbachini.com/funding-rounds/)
-- [Blockchain Jobs | A Definitive List Of Roles &amp; Salaries In Crypto](https://jamesbachini.com/blockchain-jobs/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
