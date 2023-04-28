@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quadratic Voting | Make Democracy Great Again](https://jamesbachini.com/quadratic-voting/)
 - [Technical Analysis For Crypto Degenerates](https://jamesbachini.com/technical-analysis/)
 - [Asymmetric Cryptography Explained](https://jamesbachini.com/asymmetric-cryptography/)
 - [What is DVT? | Distributed Validator Technology](https://jamesbachini.com/distributed-validator-technology/)
 - [AutoGPT Tutorial | Automated Agents In Practice](https://jamesbachini.com/autogpt/)
-- [Advice For Hackathons | 9 Tips For Competing In Hackathons](https://jamesbachini.com/hackathons/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
