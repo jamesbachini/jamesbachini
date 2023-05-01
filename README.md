@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [RDNT v2 Radiant Capital | DeFi Analysis Report](https://jamesbachini.com/radiant-capital/)
 - [Protodanksharding &amp; Danksharding Explained](https://jamesbachini.com/danksharding/)
 - [Will Quantum Computing Break Bitcoin?](https://jamesbachini.com/quantum-computing/)
 - [Quadratic Voting | Make Democracy Great Again](https://jamesbachini.com/quadratic-voting/)
 - [Technical Analysis For Crypto Degenerates](https://jamesbachini.com/technical-analysis/)
-- [Asymmetric Cryptography Explained](https://jamesbachini.com/asymmetric-cryptography/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
