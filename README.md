@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Create Your Own Memecoin &amp; Sell It On Uniswap](https://www.youtube.com/watch?v=-bVzqtIa0bc)
 - [Hackathon Success | 9 Tips To Crush Your Next Hackathon](https://www.youtube.com/watch?v=mnBofeo1Ib0)
 - [Twitter Algorithm Analysis | How The Heavy Ranker Works](https://www.youtube.com/watch?v=RUOi5B-3Wv4)
 - [How To Setup #Metamask Mobile](https://www.youtube.com/watch?v=fTRHJJUnL-8)
 - [Merkle Tree Solidity Whitelist](https://www.youtube.com/watch?v=NTPpyL4pJG0)
-- [Evolving use cases for NFTs](https://www.youtube.com/watch?v=-Eq7W8sZ2y8)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
