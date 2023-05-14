@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hyperledger Fabric | IBM’s Enterprise Blockchain](https://jamesbachini.com/hyperledger-fabric/)
 - [Taproot Explained | Beneficial For Bitcoin?](https://jamesbachini.com/taproot/)
 - [How To Create Your Own Memecoin With Solidity and Uniswap](https://jamesbachini.com/create-a-memecoin/)
 - [What is Pepe | A Memecoin Story](https://jamesbachini.com/pepe-memecoin/)
 - [MEV Uncovered | The Dark Side Of DeFi](https://jamesbachini.com/mev-uncovered/)
-- [RDNT v2 Radiant Capital | DeFi Analysis Report](https://jamesbachini.com/radiant-capital/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
