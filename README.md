@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethers vs VIEM | Which Web3 Frontend Library?](https://jamesbachini.com/ethers-vs-viem/)
 - [Trading The Lifecycle Of Crypto Narratives](https://jamesbachini.com/crypto-narratives/)
 - [Defending Against Sandwich Attacks and MEV | A Guide to Flashbots Protect](https://jamesbachini.com/flashbots-protect/)
 - [How To Create A BRC20 Bitcoin Token](https://jamesbachini.com/brc20-bitcoin-token/)
 - [Hyperledger Fabric | IBM’s Enterprise Blockchain](https://jamesbachini.com/hyperledger-fabric/)
-- [Taproot Explained | Beneficial For Bitcoin?](https://jamesbachini.com/taproot/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
