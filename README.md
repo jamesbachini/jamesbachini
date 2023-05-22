@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Is My Token A Security? The Howey Test For Digital Assets](https://jamesbachini.com/howey-test/)
 - [Introduction to Flash Loans | Unleashing Capital On Demand](https://jamesbachini.com/flash-loans/)
 - [Uniswap Market Maker Bot | Managing Token Liquidity On Uniswap](https://jamesbachini.com/uniswap-market-maker-bot/)
 - [Ethers vs VIEM | Which Web3 Frontend Library?](https://jamesbachini.com/ethers-vs-viem/)
 - [Trading The Lifecycle Of Crypto Narratives](https://jamesbachini.com/crypto-narratives/)
-- [Defending Against Sandwich Attacks and MEV | A Guide to Flashbots Protect](https://jamesbachini.com/flashbots-protect/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
