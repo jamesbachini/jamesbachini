@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Uniswap Market Maker Trading Bot](https://www.youtube.com/watch?v=UbhoQv9EJbk)
 - [Bitcoin Pizza Day Recipe](https://www.youtube.com/watch?v=d5GRWtyIMD0)
 - [How To Create BRC20 Tokens](https://www.youtube.com/watch?v=6eTN2fVd4Pw)
 - [Create Your Own Memecoin &amp; Sell It On Uniswap](https://www.youtube.com/watch?v=-bVzqtIa0bc)
 - [Hackathon Success | 9 Tips To Crush Your Next Hackathon](https://www.youtube.com/watch?v=mnBofeo1Ib0)
-- [Twitter Algorithm Analysis | How The Heavy Ranker Works](https://www.youtube.com/watch?v=RUOi5B-3Wv4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
