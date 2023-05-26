@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Minecraft And The Metaverse](https://jamesbachini.com/minecraft-metaverse/)
 - [How Wrapped Tokens Like wETH &amp; wBTC Work](https://jamesbachini.com/wrapped-tokens/)
 - [3 Tips For Gas Efficient Solidity Smart Contracts](https://jamesbachini.com/gas-efficient-solidity/)
 - [Snapshot | Gasless Voting for Decentralized Communities](https://jamesbachini.com/snapshot/)
 - [Is My Token A Security? The Howey Test For Digital Assets](https://jamesbachini.com/howey-test/)
-- [Introduction to Flash Loans | Unleashing Capital On Demand](https://jamesbachini.com/flash-loans/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
