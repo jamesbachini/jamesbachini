@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective Altruism | Leveraging Innovation &amp; Transparency for Social Good](https://jamesbachini.com/effective-altruism/)
 - [Gnosis Safe | The Most Secure Multisig Wallet For Your Crypto](https://jamesbachini.com/gnosis-safe/)
 - [Ethereum Improvement Proposal |  How To Submit An EIP](https://jamesbachini.com/ethereum-improvement-proposal/)
 - [Ultimate Guide To Hire A Solidity/Web3 Developer](https://jamesbachini.com/hire-developer-guide/)
 - [Minecraft And The Metaverse](https://jamesbachini.com/minecraft-metaverse/)
-- [How Wrapped Tokens Like wETH &amp; wBTC Work](https://jamesbachini.com/wrapped-tokens/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
