@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Prisma Finance | acUSD an LST backed stablecoin](https://jamesbachini.com/prisma-finance/)
 - [Assessing Smart Contract Security Auditors](https://jamesbachini.com/smart-contract-auditors/)
 - [Proposer Builder Separation](https://jamesbachini.com/proposer-builder-separation/)
 - [Alchemix Self-Repaying Loans](https://jamesbachini.com/alchemix-self-repaying-loans/)
 - [Mastering Volatility In Crypto Markets](https://jamesbachini.com/volatility-in-crypto/)
-- [Effective Altruism | Leveraging Innovation &amp; Transparency for Social Good](https://jamesbachini.com/effective-altruism/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
