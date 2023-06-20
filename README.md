@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Writing and deploying a #Solidity smart contract](https://www.youtube.com/watch?v=FT-U48kQoso)
 - [3 Tips To Save Gas For Solidity Devs](https://www.youtube.com/watch?v=xfNHzqkMWEQ)
 - [3 Most Common Smart Contract Bugs](https://www.youtube.com/watch?v=Dis2E-4RFeE)
 - [Uniswap Market Maker Trading Bot](https://www.youtube.com/watch?v=UbhoQv9EJbk)
 - [Bitcoin Pizza Day Recipe](https://www.youtube.com/watch?v=d5GRWtyIMD0)
-- [How To Create BRC20 Tokens](https://www.youtube.com/watch?v=6eTN2fVd4Pw)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
