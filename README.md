@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can London Become A Crypto Hub?](https://jamesbachini.com/london-crypto-hub/)
 - [Lybra Finance | DeFi Analysis Report](https://jamesbachini.com/lybra-finance/)
 - [Raising Funds For Your Blockchain Project](https://jamesbachini.com/raising-funds/)
 - [Prisma Finance | acUSD an LST backed stablecoin](https://jamesbachini.com/prisma-finance/)
 - [Assessing Smart Contract Security Auditors](https://jamesbachini.com/smart-contract-auditors/)
-- [Proposer Builder Separation](https://jamesbachini.com/proposer-builder-separation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
