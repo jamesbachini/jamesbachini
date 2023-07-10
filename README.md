@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Using Uniswap For Flashloans](https://www.youtube.com/watch?v=rte5Rk-XQ24)
 - [VIEM vs Ethers | Best Web3 Javascript Framework](https://www.youtube.com/watch?v=MXU4FN3fkmY)
 - [Writing and deploying a #Solidity smart contract](https://www.youtube.com/watch?v=FT-U48kQoso)
 - [3 Tips To Save Gas For Solidity Devs](https://www.youtube.com/watch?v=xfNHzqkMWEQ)
 - [3 Most Common Smart Contract Bugs](https://www.youtube.com/watch?v=Dis2E-4RFeE)
-- [Uniswap Market Maker Trading Bot](https://www.youtube.com/watch?v=UbhoQv9EJbk)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
