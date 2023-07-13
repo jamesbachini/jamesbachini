@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Uniswap v4 Hooks](https://jamesbachini.com/uniswap-v4-hooks/)
 - [crvUSD Curve Stable | DeFi Analysis Report](https://jamesbachini.com/crvusd/)
 - [3 Ways To Raise Web3 Funding](https://jamesbachini.com/web3-funding/)
 - [Solidity Error Codes | Not Always What They Seem](https://jamesbachini.com/solidity-error/)
 - [FTX 2.0 ReLaunch](https://jamesbachini.com/ftx-2-relaunch/)
-- [Raft Finance | DeFi Analysis Report](https://jamesbachini.com/raft-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
