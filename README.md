@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building LayerZero OFT Tokens In Solidity](https://jamesbachini.com/layerzero-oft/)
 - [XRP Legal Case | What It Means For Developers](https://jamesbachini.com/xrp-legal-case/)
 - [Uniswap v4 Hooks](https://jamesbachini.com/uniswap-v4-hooks/)
 - [crvUSD Curve Stable | DeFi Analysis Report](https://jamesbachini.com/crvusd/)
 - [3 Ways To Raise Web3 Funding](https://jamesbachini.com/web3-funding/)
-- [Solidity Error Codes | Not Always What They Seem](https://jamesbachini.com/solidity-error/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
