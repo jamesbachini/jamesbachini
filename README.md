@@ -36,7 +36,7 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ETHx Stader Labs | DeFi Analysis ReportEthX Strader labs](https://jamesbachini.com/ethx-stader-labs/)
+- [ETHx Stader Labs | DeFi Analysis Report](https://jamesbachini.com/ethx-stader-labs/)
 - [Conic Finance | DeFi Analysis Report](https://jamesbachini.com/conic-finance/)
 - [Building LayerZero OFT Tokens In Solidity](https://jamesbachini.com/layerzero-oft/)
 - [XRP Legal Case | What It Means For Developers](https://jamesbachini.com/xrp-legal-case/)
