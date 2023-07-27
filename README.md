@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hop Exchange | DeFi Analysis Report](https://jamesbachini.com/hop-exchange/)
 - [Infura vs Alchemy](https://jamesbachini.com/infura-vs-alchemy/)
 - [ETHx Stader Labs | DeFi Analysis Report](https://jamesbachini.com/ethx-stader-labs/)
 - [Conic Finance | DeFi Analysis Report](https://jamesbachini.com/conic-finance/)
 - [Building LayerZero OFT Tokens In Solidity](https://jamesbachini.com/layerzero-oft/)
-- [XRP Legal Case | What It Means For Developers](https://jamesbachini.com/xrp-legal-case/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
