@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solana SoLang Tutorial | How To Deploy Solidity On Solana](https://jamesbachini.com/solang-tutorial/)
 - [Aevo Decentralized Options Platfor](https://jamesbachini.com/aevo/)
 - [Hop Exchange | DeFi Analysis Report](https://jamesbachini.com/hop-exchange/)
 - [Infura vs Alchemy](https://jamesbachini.com/infura-vs-alchemy/)
 - [ETHx Stader Labs | DeFi Analysis Report](https://jamesbachini.com/ethx-stader-labs/)
-- [Conic Finance | DeFi Analysis Report](https://jamesbachini.com/conic-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
