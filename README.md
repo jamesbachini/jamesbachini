@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Many People Own Bitcoin &amp; Ethereum?](https://jamesbachini.com/how-many-people-own-bitcoin-ethereum/)
 - [Automate Solidity With MEV](https://jamesbachini.com/automate-solidity/)
 - [Solana SoLang Tutorial | How To Deploy Solidity On Solana](https://jamesbachini.com/solang-tutorial/)
 - [Aevo Decentralized Options Platfor](https://jamesbachini.com/aevo/)
 - [Hop Exchange | DeFi Analysis Report](https://jamesbachini.com/hop-exchange/)
-- [Infura vs Alchemy](https://jamesbachini.com/infura-vs-alchemy/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
