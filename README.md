@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Connecting Contracts | Solidity Callback Demo](https://www.youtube.com/watch?v=pjm0eOelPXc)
 - [The Next Big Ethereum Upgrade EIP4844 ProtoDankSharding](https://www.youtube.com/watch?v=ud_u8Ip1KnU)
 - [Use Etherscan Like A Pro](https://www.youtube.com/watch?v=H47ksm6kCkA)
 - [Trustless P2P Gambling #Shorts](https://www.youtube.com/watch?v=c3FP4R89FC4)
 - [Using Uniswap For Flashloans](https://www.youtube.com/watch?v=rte5Rk-XQ24)
-- [VIEM vs Ethers | Best Web3 Javascript Framework](https://www.youtube.com/watch?v=MXU4FN3fkmY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
