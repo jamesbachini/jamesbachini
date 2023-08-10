@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Value Averaging vs Dollar Cost Averaging](https://jamesbachini.com/value-averaging/)
 - [A Close Look at PYUSD | Implications Of The PayPal Stablecoin](https://jamesbachini.com/paypal-pyusd/)
 - [How To Shuffle A Deck Of Cards In Solidity](https://jamesbachini.com/solidity-shuffle/)
 - [The Secrets Web3 Marketers Use To Launch New Crypto Projects](https://jamesbachini.com/web3-marketing/)
 - [Crypto Travel Rule | Creating A Surveillance State](https://jamesbachini.com/crypto-travel-rule-creating-a-surveillance-state/)
-- [Card Payments For Crypto With Wert](https://jamesbachini.com/card-payments/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
