@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Ethereum To Offset Bitcoin’s Carbon Footprint](https://jamesbachini.com/carbon-offsetting/)
 - [Friend.Tech Trading Bot](https://jamesbachini.com/friendtech-trading-bot/)
 - [Spark Protocol sDAI | DeFi Analysis Report](https://jamesbachini.com/sdai-spark-protocol/)
 - [Book Summary: Mastering The Market Cycle By Howard Marks](https://jamesbachini.com/mastering-the-market-cycle/)
 - [Value Averaging vs Dollar Cost Averaging](https://jamesbachini.com/value-averaging/)
-- [A Close Look at PYUSD | Implications Of The PayPal Stablecoin](https://jamesbachini.com/paypal-pyusd/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
