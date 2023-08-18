@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 PWA Boilerplate | How To Create Next Generation dApps](https://jamesbachini.com/web3-pwa/)
 - [Chainlink CCIP | Cross-Chain Interoperability Protocol](https://jamesbachini.com/chainlink-ccip/)
 - [Biggest Misconceptions About Crypto User Demographics](https://jamesbachini.com/crypto-user-demographics/)
 - [Using Ethereum To Offset Bitcoin’s Carbon Footprint](https://jamesbachini.com/carbon-offsetting/)
 - [Friend.Tech Trading Bot](https://jamesbachini.com/friendtech-trading-bot/)
-- [Spark Protocol sDAI | DeFi Analysis Report](https://jamesbachini.com/sdai-spark-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
