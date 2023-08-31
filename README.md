@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculating The Intrinsic Value Of Bitcoin &amp; Ethereum](https://jamesbachini.com/intrinsic-value/)
 - [Book Summary: Launch by Jeff Walker](https://jamesbachini.com/product-launch-formula/)
 - [The Essential Checklist For Deploying A New Token](https://jamesbachini.com/token-deployment-checklist/)
 - [Solidity Tutorial | Gas Paying NFT](https://jamesbachini.com/gas-paying-nft/)
 - [Web3 PWA Boilerplate | How To Create Next Generation dApps](https://jamesbachini.com/web3-pwa/)
-- [Chainlink CCIP | Cross-Chain Interoperability Protocol](https://jamesbachini.com/chainlink-ccip/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
