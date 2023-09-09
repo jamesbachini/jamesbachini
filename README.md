@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [What the wETH is wBTC? | Wrapped Tokens Explained](https://www.youtube.com/watch?v=80ccj5idWNY)
 - [What Is Account Abstraction?](https://www.youtube.com/watch?v=R4YkVlEqCn8)
 - [The #metaverse is not for me and you](https://www.youtube.com/watch?v=X38hwhhr15I)
 - [Friend.Tech Trading Bot | How To Make Shekels From Web3 Opportunities](https://www.youtube.com/watch?v=SLh8SN5DRc4)
 - [Connecting Contracts | Solidity Callback Demo](https://www.youtube.com/watch?v=pjm0eOelPXc)
-- [The Next Big Ethereum Upgrade EIP4844 ProtoDankSharding](https://www.youtube.com/watch?v=ud_u8Ip1KnU)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
