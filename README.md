@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Smol dApp | MultiSafe MultiChain MultiSig Wallets](https://jamesbachini.com/smol-dapp/)
 - [ApeX Pro | DeFi Analysis Report](https://jamesbachini.com/apex-pro/)
 - [Hardhat vs Foundry](https://jamesbachini.com/hardhat-vs-foundry/)
 - [The Definitive Guide To Enshrined Rollups](https://jamesbachini.com/enshrined-rollups/)
 - [Calculating The Intrinsic Value Of Bitcoin &amp; Ethereum](https://jamesbachini.com/intrinsic-value/)
-- [Book Summary: Launch by Jeff Walker](https://jamesbachini.com/product-launch-formula/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
