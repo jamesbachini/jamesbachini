@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Solidity Vs Vyper](https://www.youtube.com/watch?v=FEs5qDR1Y-0)
 - [Hardhat vs Foundry | Solidity Frameworks Compared](https://www.youtube.com/watch?v=rai7CqGd-Tk)
 - [What the wETH is wBTC? | Wrapped Tokens Explained](https://www.youtube.com/watch?v=80ccj5idWNY)
 - [What Is Account Abstraction?](https://www.youtube.com/watch?v=R4YkVlEqCn8)
 - [The #metaverse is not for me and you](https://www.youtube.com/watch?v=X38hwhhr15I)
-- [Friend.Tech Trading Bot | How To Make Shekels From Web3 Opportunities](https://www.youtube.com/watch?v=SLh8SN5DRc4)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
