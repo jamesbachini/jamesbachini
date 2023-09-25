@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NEAR BOS | Blockchain Operating System](https://jamesbachini.com/near-bos-blockchain-operating-system/)
 - [VEGA DeFi Derivatives Protocol | DeFi Analysis Report 🔍](https://jamesbachini.com/vega/)
 - [Celestia | Modular AppChains](https://jamesbachini.com/celestia/)
 - [Premia Finance | DeFi Analysis Report 🔍](https://jamesbachini.com/premia-finance/)
 - [Smol dApp | MultiSafe MultiChain MultiSig Wallets](https://jamesbachini.com/smol-dapp/)
-- [ApeX Pro | DeFi Analysis Report](https://jamesbachini.com/apex-pro/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
