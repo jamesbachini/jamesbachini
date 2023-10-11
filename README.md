@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How I Built A Smart Money List On Twitter](https://www.youtube.com/watch?v=4qYraarbsYs)
 - [OpenZeppelin v5 Released! Breaking Changes](https://www.youtube.com/watch?v=d3L_qUe9aNQ)
 - [Gnosis safe multisig wallet demo](https://www.youtube.com/watch?v=zis7Xr6fM9M)
 - [Solidity Vs Vyper](https://www.youtube.com/watch?v=FEs5qDR1Y-0)
 - [Hardhat vs Foundry | Solidity Frameworks Compared](https://www.youtube.com/watch?v=rai7CqGd-Tk)
-- [What the wETH is wBTC? | Wrapped Tokens Explained](https://www.youtube.com/watch?v=80ccj5idWNY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
