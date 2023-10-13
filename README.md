@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MUX Protocol | DeFi Analysis Report](https://jamesbachini.com/mux-protocol-defi-analysis-report/)
 - [How I Built A Smart Money List On Twitter](https://jamesbachini.com/smart-money-list/)
 - [Investing In Real World Assets Through DeFi](https://jamesbachini.com/real-world-assets/)
 - [Brine Finance | DeFi Analysis Report](https://jamesbachini.com/brine-finance/)
 - [OpenZeppelin 5 Solidity Common Errors](https://jamesbachini.com/openzeppelin-v5/)
-- [Radix DLT | DeFI Analysis Report](https://jamesbachini.com/radix/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
