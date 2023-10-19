@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Track Developer Activity For Crypto Projects](https://jamesbachini.com/track-developer-activity/)
 - [eBTC How To Trade The Flippening](https://jamesbachini.com/ebtc/)
 - [MUX Protocol | DeFi Analysis Report](https://jamesbachini.com/mux-protocol-defi-analysis-report/)
 - [How I Built A Smart Money List On Twitter](https://jamesbachini.com/smart-money-list/)
 - [Investing In Real World Assets Through DeFi](https://jamesbachini.com/real-world-assets/)
-- [Brine Finance | DeFi Analysis Report](https://jamesbachini.com/brine-finance/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
