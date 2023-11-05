@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Snapshot DeFi Governance](https://www.youtube.com/watch?v=1vtd9HkgD-0)
 - [WAGMI Web3 Framework Tutorial in 3 mins](https://www.youtube.com/watch?v=Bn6lhw27pzU)
 - [How I Built A Smart Money List On Twitter](https://www.youtube.com/watch?v=4qYraarbsYs)
 - [OpenZeppelin v5 Released! Breaking Changes](https://www.youtube.com/watch?v=d3L_qUe9aNQ)
 - [Gnosis safe multisig wallet demo](https://www.youtube.com/watch?v=zis7Xr6fM9M)
-- [Solidity Vs Vyper](https://www.youtube.com/watch?v=FEs5qDR1Y-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
