@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT Plus vs Free | Is The Paid Version Of ChatGPT Worth It?](https://jamesbachini.com/chatgpt-plus-vs-free/)
 - [Asymmetry Finance | DeFi Analysis Report](https://jamesbachini.com/asymmetry-finance/)
 - [WAGMI Tutorial | The Web3 React Framework](https://jamesbachini.com/wagmi-tutorial/)
 - [Emergent use cases for self-sovereign identity in DeFi](https://jamesbachini.com/self-sovereign-identity/)
 - [How I Track Developer Activity For Crypto Projects](https://jamesbachini.com/track-developer-activity/)
-- [eBTC How To Trade The Flippening](https://jamesbachini.com/ebtc/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
