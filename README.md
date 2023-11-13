@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ethers-rs Tutorial | The Rust Web3 Library](https://jamesbachini.com/ethers-rs-tutorial/)
 - [GEAR Gearbox Protocol | DeFi Analysis Report](https://jamesbachini.com/gearbox-protocol/)
 - [Rainbow Wallet vs Metamask](https://jamesbachini.com/rainbow-wallet-vs-metamask/)
 - [ChatGPT Plus vs Free | Is The Paid Version Of ChatGPT Worth It?](https://jamesbachini.com/chatgpt-plus-vs-free/)
 - [Asymmetry Finance | DeFi Analysis Report](https://jamesbachini.com/asymmetry-finance/)
-- [WAGMI Tutorial | The Web3 React Framework](https://jamesbachini.com/wagmi-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
