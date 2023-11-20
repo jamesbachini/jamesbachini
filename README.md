@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Web3 Session Keys](https://www.youtube.com/watch?v=2CDoqbA48JI)
 - [Ethers-rs Tutorial | The Rust Web3 Library](https://www.youtube.com/watch?v=FA7WFGtyri8)
 - [ChatGPT Plus vs Free | Is ChatGPT Paid Version Worth It?](https://www.youtube.com/watch?v=U3xXd3vV4iU)
 - [Snapshot DeFi Governance](https://www.youtube.com/watch?v=1vtd9HkgD-0)
 - [WAGMI Web3 Framework Tutorial in 3 mins](https://www.youtube.com/watch?v=Bn6lhw27pzU)
-- [How I Built A Smart Money List On Twitter](https://www.youtube.com/watch?v=4qYraarbsYs)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
