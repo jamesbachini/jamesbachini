@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Solidity Proxy Contract Tutorial With Example Code](https://jamesbachini.com/proxy-contracts-tutorial/)
 - [LLM vs AGI | Limiting Reality of Language Models in AGI](https://jamesbachini.com/llm-vs-agi/)
 - [Web3 Session Keys](https://jamesbachini.com/web3-session-keys/)
 - [ATOM Cosmos Analysis | A Deep Dive Into The Cosmos Ecosystem](https://jamesbachini.com/atom-cosmos/)
 - [Ethers-rs Tutorial | The Rust Web3 Library](https://jamesbachini.com/ethers-rs-tutorial/)
-- [GEAR Gearbox Protocol | DeFi Analysis Report](https://jamesbachini.com/gearbox-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
