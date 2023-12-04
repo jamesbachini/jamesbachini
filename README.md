@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Deploy A Website Or dApp To IPFS | Fleek Tutorial](https://jamesbachini.com/fleek-tutorial/)
 - [Etherspot Account Abstraction Tutorial](https://jamesbachini.com/etherspot-account-abstraction-tutorial/)
 - [TradingView Pine Script Examples | Master Pine Script With 6 Real World Examples](https://jamesbachini.com/pine-script-examples/)
 - [Solidity Proxy Contract Tutorial With Example Code](https://jamesbachini.com/proxy-contracts-tutorial/)
 - [LLM vs AGI | Limiting Reality of Language Models in AGI](https://jamesbachini.com/llm-vs-agi/)
-- [Web3 Session Keys](https://jamesbachini.com/web3-session-keys/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
