@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deploy Your Website To IPFS With Ease | 3 Minute Fleek IPFS Tutorial](https://www.youtube.com/watch?v=DmpXbmjnpec)
 - [TradingView Pine Script | Learn With 6 Real World Examples](https://www.youtube.com/watch?v=H9SIftznYYA)
 - [Web3 Session Keys](https://www.youtube.com/watch?v=2CDoqbA48JI)
 - [Ethers-rs Tutorial | The Rust Web3 Library](https://www.youtube.com/watch?v=FA7WFGtyri8)
 - [ChatGPT Plus vs Free | Is ChatGPT Paid Version Worth It?](https://www.youtube.com/watch?v=U3xXd3vV4iU)
-- [Snapshot DeFi Governance](https://www.youtube.com/watch?v=1vtd9HkgD-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
