@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sell Me This Pen.sol](https://jamesbachini.com/sell-me-this-pen/)
 - [LRTs | Liquid Restaking Tokens](https://jamesbachini.com/liquid-restaking-tokens/)
 - [Crypto Market Thesis 2024](https://jamesbachini.com/crypto-market-thesis-2024/)
 - [Nixon Shock | The Beginning Of The End](https://jamesbachini.com/nixon-shock/)
 - [Midjourney vs Dall-E &lpar;ChatGPT&rpar; | Best AI Image Generator Tests](https://jamesbachini.com/midjourney-vs-dall-e-chatgpt/)
-- [How To Deploy A Website Or dApp To IPFS | Fleek Tutorial](https://jamesbachini.com/fleek-tutorial/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
