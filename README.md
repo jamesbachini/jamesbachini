@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vyper Tutorial | Learn Vyper In 24 Hours](https://jamesbachini.com/vyper-tutorial/)
 - [Using Vyper With Remix](https://jamesbachini.com/using-vyper-with-remix/)
 - [Sell Me This Pen.sol](https://jamesbachini.com/sell-me-this-pen/)
 - [LRTs | Liquid Restaking Tokens](https://jamesbachini.com/liquid-restaking-tokens/)
 - [Crypto Market Thesis 2024](https://jamesbachini.com/crypto-market-thesis-2024/)
-- [Nixon Shock | The Beginning Of The End](https://jamesbachini.com/nixon-shock/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
