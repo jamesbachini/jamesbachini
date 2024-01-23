@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Vyper Tutorial | Learn Vyper In 24 Hours](https://www.youtube.com/watch?v=yD-lbfB3Mxg)
 - [What Happens When You Ask  A Blockchain Dev To Sell You A Pen?](https://www.youtube.com/watch?v=V9xU5qksWvs)
 - [Which Is The Best AI Image Generator? Midjourney vs Dall-E &lpar;ChatGPT&rpar;](https://www.youtube.com/watch?v=mf1kWjzlsqI)
 - [Deploy Your Website To IPFS With Ease | 3 Minute Fleek IPFS Tutorial](https://www.youtube.com/watch?v=DmpXbmjnpec)
 - [TradingView Pine Script | Learn With 6 Real World Examples](https://www.youtube.com/watch?v=H9SIftznYYA)
-- [Web3 Session Keys](https://www.youtube.com/watch?v=2CDoqbA48JI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
