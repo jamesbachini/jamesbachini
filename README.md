@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Frontrunning Crypto Catalysts For Fun &amp; Profit](https://jamesbachini.com/frontrunning-crypto-catalysts-for-fun-profit/)
 - [Ethena USDe | DeFi Analysis Report](https://jamesbachini.com/ethena-usde-defi-analysis-report/)
 - [Creating A Solidity Escrow Smart Contract](https://jamesbachini.com/escrow-smart-contract/)
 - [Starknet STRK Tokenomics](https://jamesbachini.com/starknet-strk-tokenomics/)
 - [How To Create ERC404 Tokens Solidity Tutorial](https://jamesbachini.com/erc404-token/)
-- [Aggregated Blockchains and Polygon’s Agglayer](https://jamesbachini.com/aggregated-blockchains-and-polygons-agglayer/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
