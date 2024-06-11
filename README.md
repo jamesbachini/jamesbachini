@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Tap To Cash](https://jamesbachini.com/apple-tap-to-cash/)
 - [Interest Rates, FOMC &amp; Crypto](https://jamesbachini.com/interest-rates-fomc-crypto/)
 - [Building a Career in Web3](https://jamesbachini.com/building-a-career-in-web3/)
 - [Frontrunning Crypto Catalysts For Fun &amp; Profit](https://jamesbachini.com/frontrunning-crypto-catalysts-for-fun-profit/)
 - [Ethena USDe | DeFi Analysis Report](https://jamesbachini.com/ethena-usde-defi-analysis-report/)
-- [Creating A Solidity Escrow Smart Contract](https://jamesbachini.com/escrow-smart-contract/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
