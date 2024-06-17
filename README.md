@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bitcoin Censorship Resistance](https://jamesbachini.com/bitcoin-censorship-resistance/)
 - [The Ethereum Pectra Upgrade](https://jamesbachini.com/ethereum-pectra-upgrade/)
 - [Building A Portfolio Tracker In Python](https://jamesbachini.com/building-a-portfolio-tracker-in-python/)
 - [Apple Tap To Cash](https://jamesbachini.com/apple-tap-to-cash/)
 - [Interest Rates, FOMC &amp; Crypto](https://jamesbachini.com/interest-rates-fomc-crypto/)
-- [Building a Career in Web3](https://jamesbachini.com/building-a-career-in-web3/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
