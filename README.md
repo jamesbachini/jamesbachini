@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ChatGPT vs Claude](https://jamesbachini.com/chatgpt-vs-claude/)
 - [Web3 vs Cloud Computing](https://jamesbachini.com/web3-vs-cloud/)
 - [How To Lookup An ENS Name In Python](https://jamesbachini.com/ens-lookup-python/)
 - [The Future Of Cryptography](https://jamesbachini.com/future-of-cryptography/)
 - [Bitcoin Censorship Resistance](https://jamesbachini.com/bitcoin-censorship-resistance/)
-- [The Ethereum Pectra Upgrade](https://jamesbachini.com/ethereum-pectra-upgrade/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
