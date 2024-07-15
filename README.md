@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ChatGPT Pinescript Trading View Indicators &amp; Strategies](https://www.youtube.com/watch?v=LXQ6uWfxzFE)
 - [What Happens Next In 2024 For Crypto?](https://www.youtube.com/watch?v=kLiRVLUuMjM)
 - [3 Ways To Track Developer Activity](https://www.youtube.com/watch?v=DTI7ELSA6CA)
 - [Vyper Tutorial | Learn Vyper In 24 Hours](https://www.youtube.com/watch?v=yD-lbfB3Mxg)
 - [What Happens When You Ask  A Blockchain Dev To Sell You A Pen?](https://www.youtube.com/watch?v=V9xU5qksWvs)
-- [Which Is The Best AI Image Generator? Midjourney vs Dall-E &lpar;ChatGPT&rpar;](https://www.youtube.com/watch?v=mf1kWjzlsqI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
