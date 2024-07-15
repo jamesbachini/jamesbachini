@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeDollarisation In The Changing World Order](https://jamesbachini.com/dedollarisation/)
 - [DeFi Analysis With Rust](https://jamesbachini.com/defi-analysis-with-rust/)
 - [Structured Products DeFi](https://jamesbachini.com/structured-defi-products/)
 - [ChatGPT vs Claude](https://jamesbachini.com/chatgpt-vs-claude/)
 - [Web3 vs Cloud Computing](https://jamesbachini.com/web3-vs-cloud/)
-- [How To Lookup An ENS Name In Python](https://jamesbachini.com/ens-lookup-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
