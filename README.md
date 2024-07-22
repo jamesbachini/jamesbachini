@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DeFi Whale Watching Tutorial &amp; Code](https://jamesbachini.com/defi-whale-watching/)
 - [Investment Thesis for Alibaba Group &lpar;BABA&rpar;](https://jamesbachini.com/investment-thesis-for-alibaba-group-baba/)
 - [DeDollarisation In The Changing World Order](https://jamesbachini.com/dedollarisation/)
 - [DeFi Analysis With Rust](https://jamesbachini.com/defi-analysis-with-rust/)
 - [Structured Products DeFi](https://jamesbachini.com/structured-defi-products/)
-- [ChatGPT vs Claude](https://jamesbachini.com/chatgpt-vs-claude/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
