@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculating CAGR in Python &amp; JavaScript](https://jamesbachini.com/calculating-cagr-in-python-javascript/)
 - [Web3 Social Network](https://jamesbachini.com/web3-social-network/)
 - [How To Check Token Balances Using Python](https://jamesbachini.com/token-balances-python/)
 - [Using ChatGPT To Explore Future Investment Opportunities](https://jamesbachini.com/chatgpt-investment-opportunities/)
 - [DeFi Whale Watching Tutorial &amp; Code](https://jamesbachini.com/defi-whale-watching/)
-- [Investment Thesis for Alibaba Group &lpar;BABA&rpar;](https://jamesbachini.com/investment-thesis-for-alibaba-group-baba/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
