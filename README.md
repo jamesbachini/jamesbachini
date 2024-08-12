@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Calculating Bitcoin Fair Value With Rust](https://jamesbachini.com/calculating-bitcoin-fair-value-rust/)
 - [AI Is Not Decentralized](https://jamesbachini.com/ai-is-not-decentralized/)
 - [Can ChatGPT &amp; Keras Predict The Price Of Bitcoin](https://jamesbachini.com/chatgpt-keras-bitcoin-bot/)
 - [Calculating CAGR in Python &amp; JavaScript](https://jamesbachini.com/calculating-cagr-in-python-javascript/)
 - [Web3 Social Network](https://jamesbachini.com/web3-social-network/)
-- [How To Check Token Balances Using Python](https://jamesbachini.com/token-balances-python/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
