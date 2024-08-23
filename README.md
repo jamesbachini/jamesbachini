@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [7 Incredible Use Cases For ChatGPT](https://jamesbachini.com/7-incredible-use-cases-for-chatgpt/)
 - [Script To Analyze Bytecode Size Of Smart Contracts](https://jamesbachini.com/script-to-analyze-bytecode-size-of-smart-contracts/)
 - [Solidity Virtual Pet](https://jamesbachini.com/solidity-virtual-pet/)
 - [How To Scrape Twitter/X Without API Access](https://jamesbachini.com/how-to-scrape-twitter-x-without-api-access/)
 - [Calculating Bitcoin Fair Value With Rust](https://jamesbachini.com/calculating-bitcoin-fair-value-rust/)
-- [AI Is Not Decentralized](https://jamesbachini.com/ai-is-not-decentralized/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
