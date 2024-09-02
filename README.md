@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What Are Blockchains Good For?](https://jamesbachini.com/what-are-blockchains-good-for/)
 - [How To Calculate Gas Costs For Solidity Contracts](https://jamesbachini.com/how-to-calculate-gas-costs-for-solidity-contracts/)
 - [Are We Living In A Simulation?](https://jamesbachini.com/are-we-living-in-a-simulation/)
 - [NFT Token Vault Solidity](https://jamesbachini.com/nft-token-vault-solidity/)
 - [Creating an UpOnly ERC20 Token](https://jamesbachini.com/creating-an-uponly-erc20-token/)
-- [Solidity Encrypted Messaging dApp](https://jamesbachini.com/solidity-encrypted-messaging-dapp/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
