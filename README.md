@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Best Sketch To Image AI Generator](https://jamesbachini.com/best-sketch-to-image-ai-generator/)
 - [The Future Of Bitcoin, Ethereum &amp; Web3](https://jamesbachini.com/the-future-of-bitcoin-ethereum-web3/)
 - [What’s Happened Since Chip War](https://jamesbachini.com/whats-happened-since-chip-war/)
 - [What Are Blockchains Good For?](https://jamesbachini.com/what-are-blockchains-good-for/)
 - [How To Calculate Gas Costs For Solidity Contracts](https://jamesbachini.com/how-to-calculate-gas-costs-for-solidity-contracts/)
-- [Are We Living In A Simulation?](https://jamesbachini.com/are-we-living-in-a-simulation/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
