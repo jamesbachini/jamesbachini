@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Rust Smart Contracts On Stellar Soroban](https://jamesbachini.com/building-rust-smart-contracts-on-stellar-soroban/)
 - [Pump.fun Clone In Solidity](https://jamesbachini.com/pump-fun-clone-in-solidity/)
 - [Over-Collateralized Lending In DeFi](https://jamesbachini.com/over-collateralized-lending-in-defi/)
 - [Creating Your Own Oracle Solidity &amp; NodeJS](https://jamesbachini.com/creating-your-own-oracle-solidity-nodejs/)
 - [Format JSON Tool](https://jamesbachini.com/format-json-tool/)
-- [Best Sketch To Image AI Generator](https://jamesbachini.com/best-sketch-to-image-ai-generator/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
