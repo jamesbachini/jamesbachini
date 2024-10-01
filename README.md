@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [WebAuthn PassKey Smart Wallets](https://jamesbachini.com/webauthn-passkey-smart-wallets/)
 - [React Hooks Tutorial | The 7 Most Important React Hooks](https://jamesbachini.com/react-hooks-tutorial-the-7-most-important-react-hooks/)
 - [Value Investing In DeFi](https://jamesbachini.com/value-investing-in-defi/)
 - [7 Problems That DeFi Solves](https://jamesbachini.com/7-problems-that-defi-solves/)
 - [3 Ways AI Will Change Software Development by 2030](https://jamesbachini.com/3-ways-ai-will-change-software-development-by-2030/)
-- [Building Rust Smart Contracts On Stellar Soroban](https://jamesbachini.com/building-rust-smart-contracts-on-stellar-soroban/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
