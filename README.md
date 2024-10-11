@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stellar Soroban Boilerplate &amp; Hackathon Ideas](https://www.youtube.com/watch?v=57NzyuG3oEc)
 - [Decentralized Lending Pools | Blend Capital](https://www.youtube.com/watch?v=chy2GdyKUzM)
 - [WebAuthn Passkey Smart Wallets](https://www.youtube.com/watch?v=QGUh6CjcNcA)
 - [Building Rust Smart Contracts On Stellar Soroban](https://www.youtube.com/watch?v=BxxRlYkhwPs)
 - [Solidity Proxy Contract Example](https://www.youtube.com/watch?v=m6V6HqEuYLQ)
-- [ChatGPT Pinescript Trading View Indicators &amp; Strategies](https://www.youtube.com/watch?v=LXQ6uWfxzFE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
