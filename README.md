@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Predictions | How Close Are We To AGI?](https://jamesbachini.com/ai-predictions-how-close-are-we-to-agi/)
 - [Decentralized Lending Pools | Blend Capital](https://jamesbachini.com/blend-capital/)
 - [Encrypting Private Keys in .env](https://jamesbachini.com/encrypting-private-keys-in-env/)
 - [Balancer v3 Hooks](https://jamesbachini.com/balancer-v3-hooks/)
 - [Creating WASM Files Using Rust and Running Them in the Browser](https://jamesbachini.com/creating-wasm-files-using-rust-and-running-them-in-the-browser/)
-- [Understanding ABI Encoding: A Guide to abi.encodeCall and encodeWithSelector](https://jamesbachini.com/understanding-abi-encoding-a-guide-to-abi-encodecall-and-encodewithselector/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
