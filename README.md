@@ -23,10 +23,10 @@ I dabble in blockchain development, systems trading and yield farming.
 
 <!-- YOUTUBE:START -->
 - [Meridian 2024](https://www.youtube.com/watch?v=IeyaYTu-kBM)
-- [Meridian 2024](https://www.youtube.com/watch?v=6ElXvj3NhBE)
 - [Hack Meridian 2024 EasyA x Stellar Hackathon](https://www.youtube.com/watch?v=ipPykjZOz2E)
 - [Stellar Soroban Boilerplate &amp; Hackathon Ideas](https://www.youtube.com/watch?v=57NzyuG3oEc)
 - [Decentralized Lending Pools | Blend Capital](https://www.youtube.com/watch?v=chy2GdyKUzM)
+- [WebAuthn Passkey Smart Wallets](https://www.youtube.com/watch?v=QGUh6CjcNcA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
