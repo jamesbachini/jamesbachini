@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simple Example Of Rust Struct &amp; Importing Modules](https://jamesbachini.com/simple-example-of-rust-struct-importing-modules/)
 - [Prediction Markets Solidity](https://jamesbachini.com/prediction-markets-solidity/)
 - [Incorporating Bitcoin In A Treasury Strategy](https://jamesbachini.com/incorporating-bitcoin-in-a-treasury-strategy/)
 - [A Simple Browser Resource Monitor](https://jamesbachini.com/browser-resource-monitor/)
 - [Stellar Soroban Boilerplate](https://jamesbachini.com/stellar-soroban-boilerplate/)
-- [AI Predictions | How Close Are We To AGI?](https://jamesbachini.com/ai-predictions-how-close-are-we-to-agi/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
