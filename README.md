@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meridian 2024 Takeaways](https://jamesbachini.com/meridian-2024-takeaways/)
 - [Creating MultiSig Wallets with Solidity](https://jamesbachini.com/creating-multisig-wallets-with-solidity/)
 - [Simple Example Of Rust Struct &amp; Importing Modules](https://jamesbachini.com/simple-example-of-rust-struct-importing-modules/)
 - [Prediction Markets Solidity](https://jamesbachini.com/prediction-markets-solidity/)
 - [Incorporating Bitcoin In A Treasury Strategy](https://jamesbachini.com/incorporating-bitcoin-in-a-treasury-strategy/)
-- [A Simple Browser Resource Monitor](https://jamesbachini.com/browser-resource-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
