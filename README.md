@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Launching Rockets With A Smart Contract](https://www.youtube.com/watch?v=C4a9O7AFAVc)
 - [Meridian 2024 Takeaways](https://www.youtube.com/watch?v=_Ri8P-gR564)
 - [Beyond the Algorithm - The Quest for AGI](https://www.youtube.com/watch?v=ER90a3pRSJA)
 - [Meridian 2024](https://www.youtube.com/watch?v=IeyaYTu-kBM)
 - [Hack Meridian 2024 EasyA x Stellar Hackathon](https://www.youtube.com/watch?v=ipPykjZOz2E)
-- [Stellar Soroban Boilerplate &amp; Hackathon Ideas](https://www.youtube.com/watch?v=57NzyuG3oEc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
