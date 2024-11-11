@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implementing RBAC Patterns in Solidity](https://jamesbachini.com/implementing-rbac-patterns-in-solidity/)
 - [The Future Of Prompt Engineering | Best Practices For LLM Models](https://jamesbachini.com/the-future-of-prompt-engineering-best-practices-for-llm-models/)
 - [Tokenomics 101 Designing Effective Token Models](https://jamesbachini.com/tokenomics-101-designing-effective-token-models/)
 - [Why Inflows Into Spot Bitcoin ETFs Don’t Push Prices Up](https://jamesbachini.com/etf-inflows-and-price/)
 - [Marketing Psychology in Web3](https://jamesbachini.com/marketing-psychology-in-web3/)
-- [Meridian 2024 Takeaways](https://jamesbachini.com/meridian-2024-takeaways/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
