@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building A Cross Chain Token Bridge With LayerZero v2](https://jamesbachini.com/building-a-cross-chain-token-bridge-with-layerzero-v2/)
 - [Practical Applications Of Merkle Trees](https://jamesbachini.com/practical-applications-of-merkle-trees/)
 - [How To Connect An Arduino To A Soroban Smart Contract](https://jamesbachini.com/arduino-soroban-smart-contract/)
 - [Implementing RBAC Patterns in Solidity](https://jamesbachini.com/implementing-rbac-patterns-in-solidity/)
 - [The Future Of Prompt Engineering | Best Practices For LLM Models](https://jamesbachini.com/the-future-of-prompt-engineering-best-practices-for-llm-models/)
-- [Tokenomics 101 Designing Effective Token Models](https://jamesbachini.com/tokenomics-101-designing-effective-token-models/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
