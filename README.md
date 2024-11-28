@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What Happens Next In 2024 For Crypto?](https://www.youtube.com/watch?v=kLiRVLUuMjM)
-- [3 Ways To Track Developer Activity](https://www.youtube.com/watch?v=DTI7ELSA6CA)
-- [Vyper Tutorial | Learn Vyper In 24 Hours](https://www.youtube.com/watch?v=yD-lbfB3Mxg)
-- [What Happens When You Ask  A Blockchain Dev To Sell You A Pen?](https://www.youtube.com/watch?v=V9xU5qksWvs)
-- [Which Is The Best AI Image Generator? Midjourney vs Dall-E &lpar;ChatGPT&rpar;](https://www.youtube.com/watch?v=mf1kWjzlsqI)
+- [#DevCon2024 Recap](https://www.youtube.com/watch?v=BiGfNtPYTV8)
+- [The Stellar Kickstart Accelerator &amp; Funding Opportunities](https://www.youtube.com/watch?v=0aIIfGJ-LOE)
+- [Launching Rockets With A Smart Contract](https://www.youtube.com/watch?v=C4a9O7AFAVc)
+- [Meridian 2024 Takeaways](https://www.youtube.com/watch?v=_Ri8P-gR564)
+- [Beyond the Algorithm - The Quest for AGI](https://www.youtube.com/watch?v=ER90a3pRSJA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT vs Claude](https://jamesbachini.com/chatgpt-vs-claude/)
-- [Web3 vs Cloud Computing](https://jamesbachini.com/web3-vs-cloud/)
-- [How To Lookup An ENS Name In Python](https://jamesbachini.com/ens-lookup-python/)
-- [The Future Of Cryptography](https://jamesbachini.com/future-of-cryptography/)
-- [Bitcoin Censorship Resistance](https://jamesbachini.com/bitcoin-censorship-resistance/)
+- [Building Smart Contract Event Filtering Systems for DApps](https://jamesbachini.com/building-smart-contract-event-filtering-systems-for-dapps/)
+- [Automating Web3 Interactions In Rust | Minting Ethereum NFT’s With Ethers-rs](https://jamesbachini.com/web3-interactions-rust/)
+- [Building A Cross Chain Token Bridge With LayerZero v2](https://jamesbachini.com/building-a-cross-chain-token-bridge-with-layerzero-v2/)
+- [Practical Applications Of Merkle Trees](https://jamesbachini.com/practical-applications-of-merkle-trees/)
+- [How To Connect An Arduino To A Soroban Smart Contract](https://jamesbachini.com/arduino-soroban-smart-contract/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
