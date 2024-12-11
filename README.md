@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Programmatic Stellar Transfers](https://jamesbachini.com/stellar-transfers/)
 - [Optimizing Smart Contracts For Layer 2 Chains](https://jamesbachini.com/optimizing-smart-contracts-for-layer-2-chains/)
 - [How Often Should I Rebalance My Portfolio](https://jamesbachini.com/rebalancing-portfolio/)
 - [Creating Custom Solidity Libraries For Reusable Code](https://jamesbachini.com/creating-custom-solidity-libraries-for-reusable-code/)
 - [Building Smart Contract Event Filtering Systems for DApps](https://jamesbachini.com/building-smart-contract-event-filtering-systems-for-dapps/)
-- [Automating Web3 Interactions In Rust | Minting Ethereum NFT’s With Ethers-rs](https://jamesbachini.com/web3-interactions-rust/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
