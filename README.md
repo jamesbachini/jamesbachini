@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding The Fallback &amp; Receive Functions In Solidity](https://jamesbachini.com/fallback-receive-functions-in-solidity/)
 - [The Hidden Deflation of Digital Assets](https://jamesbachini.com/the-hidden-deflation-of-digital-assets/)
 - [Programmatic Stellar Transfers](https://jamesbachini.com/stellar-transfers/)
 - [Optimizing Smart Contracts For Layer 2 Chains](https://jamesbachini.com/optimizing-smart-contracts-for-layer-2-chains/)
 - [How Often Should I Rebalance My Portfolio](https://jamesbachini.com/rebalancing-portfolio/)
-- [Creating Custom Solidity Libraries For Reusable Code](https://jamesbachini.com/creating-custom-solidity-libraries-for-reusable-code/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
