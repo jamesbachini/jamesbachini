@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [#BetterOnStellar Competition](https://www.youtube.com/watch?v=N0nSeBn9oKo)
+- [#BetterOnStellar Competition](https://www.youtube.com/watch?v=Vu9Rfv5K06k)
 - [Transferring Funds Programmatically On Stellar](https://www.youtube.com/watch?v=gVC5ijif2-0)
 - [Build #BetterOnStellar](https://www.youtube.com/watch?v=u1yyV2X-_5w)
 - [Why Bitcoin Traded Over $100k](https://www.youtube.com/watch?v=Fwbn8GcuVNo)
-- [#DevCon2024 Recap](https://www.youtube.com/watch?v=BiGfNtPYTV8)
-- [The Stellar Kickstart Accelerator &amp; Funding Opportunities](https://www.youtube.com/watch?v=0aIIfGJ-LOE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
