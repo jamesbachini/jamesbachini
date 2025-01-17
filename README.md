@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Soroban Tokens 101 | Deploying Tokens &amp; Building dApps](https://www.youtube.com/watch?v=oF624m5b384)
 - [How I Built A Tool Using ChatGPT To Monitor The Silk Road Bitcoin](https://www.youtube.com/watch?v=rZ5TnPkO86Y)
 - [Soroban Data &amp; State Management](https://www.youtube.com/watch?v=cw-TPSCqtSU)
 - [#BetterOnStellar Competition](https://www.youtube.com/watch?v=N0nSeBn9oKo)
 - [#BetterOnStellar Competition](https://www.youtube.com/watch?v=Vu9Rfv5K06k)
-- [Transferring Funds Programmatically On Stellar](https://www.youtube.com/watch?v=gVC5ijif2-0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
