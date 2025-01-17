@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Soroban Token Deployment + React dApp Tutorial &lpar;Stellar SDK&rpar;](https://jamesbachini.com/soroban-tokens/)
 - [Using ChatGPT To Monitor The Silk Road Bitcoin](https://jamesbachini.com/silk-road-bitcoin/)
 - [Crypto Market Thesis 2025](https://jamesbachini.com/crypto-market-thesis-2025/)
 - [Soroban Data Locations &amp; State Management](https://jamesbachini.com/soroban-data-state-management/)
 - [Best Practices for Storing Large Data in Solidity](https://jamesbachini.com/best-practices-for-storing-large-data-in-solidity/)
-- [Understanding The Fallback &amp; Receive Functions In Solidity](https://jamesbachini.com/fallback-receive-functions-in-solidity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
