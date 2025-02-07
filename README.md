@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ark’s Big Ideas For 2025 Summary](https://jamesbachini.com/arks-big-ideas-for-2025-summary/)
 - [DeepSeek vs ChatGPT | Is The Future Of AI Open-Source &amp; Chinese?](https://jamesbachini.com/deepseek-vs-chatgpt-is-the-future-of-ai-open-source-chinese/)
 - [10 Worst Web Hacks](https://jamesbachini.com/10-worst-web-hacks/)
 - [Deploying An NFT Using Stellar Soroban](https://jamesbachini.com/soroban-nft/)
 - [Soroban Token Deployment + React dApp Tutorial &lpar;Stellar SDK&rpar;](https://jamesbachini.com/soroban-tokens/)
-- [Using ChatGPT To Monitor The Silk Road Bitcoin](https://jamesbachini.com/silk-road-bitcoin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
