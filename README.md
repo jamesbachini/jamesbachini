@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Stellar Soroban x Open Zeppelin Contract Wizard](https://www.youtube.com/watch?v=xz8re0pqSYA)
+- [Soroban Contract Wizard | OpenZeppelin x Stellar](https://www.youtube.com/watch?v=iD7ZspsZLVo)
 - [Deploying Soroban Tokens With The New OpenZeppelin Library](https://www.youtube.com/watch?v=2Ak_nHyfrEU)
 - [Tariffs Cause Crypto Chaos - Is There Anything Left In The Bull Run?](https://www.youtube.com/watch?v=Vcg6qWYqYL4)
 - [Want To Try Deepseek? How To Run It On Your Laptop In 5 Minutes](https://www.youtube.com/watch?v=qMm8bAoMD2M)
-- [Building NFT&#39;s On Stellar Soroban](https://www.youtube.com/watch?v=fTsXL8g4fAw)
-- [Soroban Tokens 101 | Deploying Tokens &amp; Building dApps](https://www.youtube.com/watch?v=oF624m5b384)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
