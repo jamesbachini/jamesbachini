@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Building A Wallet Integration For Blend Capital](https://www.youtube.com/watch?v=GbAy9f93eyE)
 - [Dev Diaries S01E02 - How The Team Secured Over $70,000 Funding](https://www.youtube.com/watch?v=Azz2QPUX4Xs)
 - [Stellar Anchors Platform Tutorial](https://www.youtube.com/watch?v=57iZMxAr_1Y)
 - [Stellar Roadmap 2025](https://www.youtube.com/watch?v=J80djohad6Y)
 - [Dev Diaries S01E01 - How a Hackathon Project Became a Web3 Startup](https://www.youtube.com/watch?v=FInE2PSx1es)
-- [Stellar Soroban x Open Zeppelin Contract Wizard](https://www.youtube.com/watch?v=xz8re0pqSYA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
