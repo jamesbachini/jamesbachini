@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building A Stellar Web Wallet With  Blend](https://jamesbachini.com/building-on-blend/)
 - [Stellar Anchor Platform Tutorial](https://jamesbachini.com/stellar-anchor-platform/)
 - [3 Reasons Why Bitcoin Outperforming Everything Else In Crypto?](https://jamesbachini.com/bitcoin-outperforming/)
 - [Building a SEP41 Token on Stellar Soroban with OpenZeppelin](https://jamesbachini.com/stellar-soroban-with-openzeppelin/)
 - [Ethereum Pectra Upgrade Imminent](https://jamesbachini.com/ethereum-pectra-upgrade-imminent/)
-- [Vibe Coding](https://jamesbachini.com/vibe-coding/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
