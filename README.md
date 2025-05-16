@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [3 Conversation Starter Prompts To Turn ChatGPT In To A Life Coach](https://jamesbachini.com/conversation-starter-prompts/)
 - [Creating OpenZeppelin Soroban NFT’s](https://jamesbachini.com/openzeppelin-soroban-nfts/)
 - [Creating Landing Pages Using Web3 Backends](https://jamesbachini.com/web3-landing-pages/)
 - [Building A Stellar Web Wallet With  Blend](https://jamesbachini.com/building-on-blend/)
 - [Stellar Anchor Platform Tutorial](https://jamesbachini.com/stellar-anchor-platform/)
-- [3 Reasons Why Bitcoin Outperforming Everything Else In Crypto?](https://jamesbachini.com/bitcoin-outperforming/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
