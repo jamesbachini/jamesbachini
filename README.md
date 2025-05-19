@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pinescript V6 For TradingView](https://www.youtube.com/watch?v=6XOTQ4OP-dE)
 - [Creating NFTs using @OpenZeppelin Stellar Soroban library](https://www.youtube.com/watch?v=xA1HfckPqFs)
 - [Product Validation Using Web3](https://www.youtube.com/watch?v=3iPqLtjL_9k)
 - [Building A Wallet Integration For Blend Capital](https://www.youtube.com/watch?v=GbAy9f93eyE)
 - [Dev Diaries S01E02 - How The Team Secured Over $70,000 Funding](https://www.youtube.com/watch?v=Azz2QPUX4Xs)
-- [Stellar Anchors Platform Tutorial](https://www.youtube.com/watch?v=57iZMxAr_1Y)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
