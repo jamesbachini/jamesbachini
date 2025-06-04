@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [System Trading Bot Breakdown](https://www.youtube.com/watch?v=3tWl4ETbqTw)
 - [Migrating Contracts From Solidity To Soroban](https://www.youtube.com/watch?v=TGMF7DY6bmg)
 - [Tracking USDC Transfers With The OpenZeppelin Monitor](https://www.youtube.com/watch?v=9ebmeGu1LmE)
 - [Pinescript V6 For TradingView](https://www.youtube.com/watch?v=6XOTQ4OP-dE)
 - [Creating NFTs using @OpenZeppelin Stellar Soroban library](https://www.youtube.com/watch?v=xA1HfckPqFs)
-- [Product Validation Using Web3](https://www.youtube.com/watch?v=3iPqLtjL_9k)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
