@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [System Trading Bot Design Breakdown](https://jamesbachini.com/system-trading-bot-design/)
 - [5 Tips For Migrating Solidity Code To Rust Soroban](https://jamesbachini.com/migrating-solidity-to-soroban/)
 - [The Stellar 2025 Roadmap](https://jamesbachini.com/stellar-2025-roadmap/)
 - [Stellar Soroban Alerts With OpenZeppelin Monitor](https://jamesbachini.com/stellar-openzeppelin-monitor/)
 - [Pine Script v6 For Tradingview: How I Created An Indicator To Find Bitcoin/Microstrategy Divergences](https://jamesbachini.com/pine-script-v6/)
-- [3 Conversation Starter Prompts To Turn ChatGPT In To A Life Coach](https://jamesbachini.com/conversation-starter-prompts/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
