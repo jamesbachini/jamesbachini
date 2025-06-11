@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pre Audit Checklist For DeFi/Web3 Projects](https://jamesbachini.com/pre-audit-checklist/)
 - [How The Next Decade Will Reshape Civilization](https://jamesbachini.com/how-the-next-decade-will-reshape-civilization/)
 - [System Trading Bot Design Breakdown](https://jamesbachini.com/system-trading-bot-design/)
 - [5 Tips For Migrating Solidity Code To Rust Soroban](https://jamesbachini.com/migrating-solidity-to-soroban/)
 - [The Stellar 2025 Roadmap](https://jamesbachini.com/stellar-2025-roadmap/)
-- [Stellar Soroban Alerts With OpenZeppelin Monitor](https://jamesbachini.com/stellar-openzeppelin-monitor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
