@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How I Installed Ollama To Run AI Models Locally](https://jamesbachini.com/install-ollama-to-run-ai-models/)
 - [Founders at Work Summary | Stories of Startups Early Days by Jessica Livingston](https://jamesbachini.com/founders-at-work-summary/)
 - [Creating A Wrapped Stablecoin](https://jamesbachini.com/stellar-stablecoin/)
 - [Pre Audit Checklist For DeFi/Web3 Projects](https://jamesbachini.com/pre-audit-checklist/)
 - [How The Next Decade Will Reshape Civilization](https://jamesbachini.com/how-the-next-decade-will-reshape-civilization/)
-- [System Trading Bot Design Breakdown](https://jamesbachini.com/system-trading-bot-design/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
