@@ -23,7 +23,7 @@ I dabble in blockchain development, systems trading and yield farming.
 
 <!-- YOUTUBE:START -->
 - [How To Create A Wrapped Stablecoin](https://www.youtube.com/watch?v=jfjKg86GEwY)
-- [System Trading Bot Breakdown](https://www.youtube.com/watch?v=3tWl4ETbqTw)
+- [System Trading Bot Breakdown](https://www.youtube.com/shorts/3tWl4ETbqTw)
 - [Migrating Contracts From Solidity To Soroban](https://www.youtube.com/watch?v=TGMF7DY6bmg)
 - [Tracking USDC Transfers With The OpenZeppelin Monitor](https://www.youtube.com/watch?v=9ebmeGu1LmE)
 - [Pinescript V6 For TradingView](https://www.youtube.com/watch?v=6XOTQ4OP-dE)
