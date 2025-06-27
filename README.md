@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Scaffold Stellar | A Boilerplate For Stellar Developers](https://www.youtube.com/watch?v=7wKD3d9w5d0)
 - [Dev Diaries S01E03 - User Feedback &amp; The Pivot That Saved The Project](https://www.youtube.com/watch?v=krWqGMv-Tq4)
 - [How To Create A Wrapped Stablecoin](https://www.youtube.com/watch?v=jfjKg86GEwY)
 - [System Trading Bot Breakdown](https://www.youtube.com/shorts/3tWl4ETbqTw)
 - [Migrating Contracts From Solidity To Soroban](https://www.youtube.com/watch?v=TGMF7DY6bmg)
-- [Tracking USDC Transfers With The OpenZeppelin Monitor](https://www.youtube.com/watch?v=9ebmeGu1LmE)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
