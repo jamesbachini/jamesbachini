@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Hello World In Solidity](https://jamesbachini.com/hello-world-in-solidity/)
 - [Crossing The Chasm Summary by Geoffrey Moore](https://jamesbachini.com/crossing-the-chasm-summary/)
 - [Scaffold Stellar | A Boilerplate For Stellar Developers](https://jamesbachini.com/scaffold-stellar/)
 - [Maths For Developers | 6 Essential Techniques Every Developer Needs](https://jamesbachini.com/maths-for-developers/)
 - [How I Installed Ollama To Run AI Models Locally](https://jamesbachini.com/install-ollama-to-run-ai-models/)
-- [Founders at Work Summary | Stories of Startups Early Days by Jessica Livingston](https://jamesbachini.com/founders-at-work-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
