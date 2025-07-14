@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Personal MBA Summary – Josh Kaufman](https://jamesbachini.com/the-personal-mba-summary/)
 - [Ledger vs Trezor Hardware Wallets](https://jamesbachini.com/ledger-vs-trezor/)
 - [Hello World In Solidity](https://jamesbachini.com/hello-world-in-solidity/)
 - [Crossing The Chasm Summary by Geoffrey Moore](https://jamesbachini.com/crossing-the-chasm-summary/)
 - [Scaffold Stellar | A Boilerplate For Stellar Developers](https://jamesbachini.com/scaffold-stellar/)
-- [Maths For Developers | 6 Essential Techniques Every Developer Needs](https://jamesbachini.com/maths-for-developers/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
