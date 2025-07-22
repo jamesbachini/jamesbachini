@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Coinbase Commerce Lets Merchants Keep More Revenue And Reach A Global Market](https://jamesbachini.com/coinbase-commerce/)
 - [Decentralized Identity Systems](https://jamesbachini.com/decentralized-identity-systems/)
 - [Storing User Data with Rust Structs and Enums](https://jamesbachini.com/soroban-user-data/)
 - [NFT Royalties | New OpenZeppelin Library For Stellar](https://jamesbachini.com/nft-royalties/)
 - [The Personal MBA Summary – Josh Kaufman](https://jamesbachini.com/the-personal-mba-summary/)
-- [Ledger vs Trezor Hardware Wallets](https://jamesbachini.com/ledger-vs-trezor/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
