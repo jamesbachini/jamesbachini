@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your First Rust Smart Contract Using Stellar](https://jamesbachini.com/first-rust-smart-contract/)
 - [Life 3.0 Summary – Max Tegmark](https://jamesbachini.com/life-3-summary/)
 - [How Coinbase Commerce Lets Merchants Keep More Revenue And Reach A Global Market](https://jamesbachini.com/coinbase-commerce/)
 - [Decentralized Identity Systems](https://jamesbachini.com/decentralized-identity-systems/)
 - [Storing User Data with Rust Structs and Enums](https://jamesbachini.com/soroban-user-data/)
-- [NFT Royalties | New OpenZeppelin Library For Stellar](https://jamesbachini.com/nft-royalties/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
