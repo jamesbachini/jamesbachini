@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Social Media | The First Network Where You Keep The Likes](https://jamesbachini.com/web3-social-network-2/)
 - [The Growing Demand For Fractional CTO’s | Why Every Startup Wants a Fractional C-Suite](https://jamesbachini.com/fractional-cto/)
 - [Lessons From Building A Stellar Options Contract](https://jamesbachini.com/soroban-options/)
 - [Your First Rust Smart Contract Using Stellar](https://jamesbachini.com/first-rust-smart-contract/)
 - [Life 3.0 Summary – Max Tegmark](https://jamesbachini.com/life-3-summary/)
-- [How Coinbase Commerce Lets Merchants Keep More Revenue And Reach A Global Market](https://jamesbachini.com/coinbase-commerce/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
