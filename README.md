@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Use Smart Contracts &amp; Passkeys To Set Up Auth On A Web App](https://www.youtube.com/watch?v=V2DwDzp43E8)
 - [Soroban Walkthrough - Call Option Contract](https://www.youtube.com/watch?v=Z8FHVllP_D0)
 - [How To Code Your First Rust Smart Contract](https://www.youtube.com/watch?v=P8RuX7Ymu5Q)
 - [Creating Smart Contracts For Prediction Markets](https://www.youtube.com/watch?v=BuqEe3gKLr4)
 - [NFT Royalties | New OpenZeppelin Library](https://www.youtube.com/watch?v=17AGbMMBEz8)
-- [Scaffold Stellar | A Boilerplate For Stellar Developers](https://www.youtube.com/watch?v=7wKD3d9w5d0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
