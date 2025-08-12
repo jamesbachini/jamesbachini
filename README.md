@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Principles Summary – Ray Dalio](https://jamesbachini.com/principles-summary-ray-dalio/)
 - [The Bitcoin Standard Summary – Saifedean Ammous](https://jamesbachini.com/the-bitcoin-standard-summary/)
 - [How To Use Smart Contracts &amp; Passkeys To Set Up Auth On A Web App](https://jamesbachini.com/smart-contracts-and-passkeys/)
 - [Web3 Social Media | The First Network Where You Keep The Likes](https://jamesbachini.com/web3-social-network-2/)
 - [The Growing Demand For Fractional CTO’s | Why Every Startup Wants a Fractional C-Suite](https://jamesbachini.com/fractional-cto/)
-- [Lessons From Building A Stellar Options Contract](https://jamesbachini.com/soroban-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
