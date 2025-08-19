@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IPFS vs Filecoin](https://jamesbachini.com/ipfs-vs-filecoin/)
 - [Stop Breaches Before They Start :: Inside The Stellar Security Audit Bank](https://jamesbachini.com/stellar-security-audit-bank/)
 - [Passing The Keys | Crypto Inheritance Planning](https://jamesbachini.com/crypto-inheritance-planning/)
 - [Principles Summary – Ray Dalio](https://jamesbachini.com/principles-summary-ray-dalio/)
 - [The Bitcoin Standard Summary – Saifedean Ammous](https://jamesbachini.com/the-bitcoin-standard-summary/)
-- [How To Use Smart Contracts &amp; Passkeys To Set Up Auth On A Web App](https://jamesbachini.com/smart-contracts-and-passkeys/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
