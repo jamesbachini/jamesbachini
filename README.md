@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Inevitable Summary – Kevin Kelly](https://jamesbachini.com/the-inevitable-summary/)
 - [GPT5 on the next 10 years](https://jamesbachini.com/gpt5-predicts-2035/)
 - [IPFS vs Filecoin](https://jamesbachini.com/ipfs-vs-filecoin/)
 - [Stop Breaches Before They Start :: Inside The Stellar Security Audit Bank](https://jamesbachini.com/stellar-security-audit-bank/)
 - [Passing The Keys | Crypto Inheritance Planning](https://jamesbachini.com/crypto-inheritance-planning/)
-- [Principles Summary – Ray Dalio](https://jamesbachini.com/principles-summary-ray-dalio/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
