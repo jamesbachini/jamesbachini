@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Alchemy Of Finance Summary – George Soros](https://jamesbachini.com/the-alchemy-of-finance-summary/)
 - [Creating A Web3 Chat Room](https://jamesbachini.com/web3-chat-room/)
 - [Proof of Work vs Proof of Stake](https://jamesbachini.com/proof-of-work-vs-proof-of-stake/)
 - [The Inevitable Summary – Kevin Kelly](https://jamesbachini.com/the-inevitable-summary/)
 - [GPT5 on the next 10 years](https://jamesbachini.com/gpt5-predicts-2035/)
-- [IPFS vs Filecoin](https://jamesbachini.com/ipfs-vs-filecoin/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
