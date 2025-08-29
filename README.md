@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Bridging Stellar Assets With Near Intents](https://www.youtube.com/watch?v=moqWwcMppgY)
 - [Talking Smart Contracts - Creating A Web3 Chat Room](https://www.youtube.com/watch?v=6antNCDIHHk)
 - [Pay 0% Of Your Security Audit Costs With Stellar Audit Bank](https://www.youtube.com/watch?v=NatWTeVET9Q)
 - [Dev Diaries S01E04 | Building Production Systems That Handle Real Money](https://www.youtube.com/watch?v=lnLLpgumOlA)
 - [How To Use Smart Contracts &amp; Passkeys To Set Up Auth On A Web App](https://www.youtube.com/watch?v=V2DwDzp43E8)
-- [Soroban Walkthrough - Call Option Contract](https://www.youtube.com/watch?v=Z8FHVllP_D0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
