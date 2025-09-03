@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Age of Surveillance Capitalism Summary – Shoshana Zuboff](https://jamesbachini.com/the-age-of-surveillance-capitalism-summary-shoshana-zuboff/)
 - [Bridging Assets With Stellar x Near Intents](https://jamesbachini.com/stellar-x-near-intents/)
 - [The Alchemy Of Finance Summary – George Soros](https://jamesbachini.com/the-alchemy-of-finance-summary/)
 - [Creating A Web3 Chat Room](https://jamesbachini.com/web3-chat-room/)
 - [Proof of Work vs Proof of Stake](https://jamesbachini.com/proof-of-work-vs-proof-of-stake/)
-- [The Inevitable Summary – Kevin Kelly](https://jamesbachini.com/the-inevitable-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
