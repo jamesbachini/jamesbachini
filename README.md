@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [SEP-41 Token Airdrop Using OpenZeppelin Merkle Tree Distributor](https://www.youtube.com/watch?v=TqNp831aOBI)
 - [Creating A Decentralized Application With OpenAI Playground](https://www.youtube.com/watch?v=E6Uz2oFo33Q)
 - [Dev Diaries S01E05 | Startup Life Isn&#39;t Always Glamorous](https://www.youtube.com/watch?v=n2C2K3HHEV0)
 - [Bridging Stellar Assets With Near Intents](https://www.youtube.com/watch?v=moqWwcMppgY)
 - [Talking Smart Contracts - Creating A Web3 Chat Room](https://www.youtube.com/watch?v=6antNCDIHHk)
-- [Pay 0% Of Your Security Audit Costs With Stellar Audit Bank](https://www.youtube.com/watch?v=NatWTeVET9Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
