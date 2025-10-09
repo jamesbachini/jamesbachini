@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Superpowers Summary | Kai-Fu Lee](https://jamesbachini.com/ai-superpowers-summary/)
 - [6 Prompt Patterns Every Developer Should Know](https://jamesbachini.com/6-prompt-patterns-every-developer-should-know/)
 - [The Network State Summary – Balaji Srinivasan](https://jamesbachini.com/the-network-state-summary/)
 - [AI Prompts For Stellar Developers](https://jamesbachini.com/ai-prompts-stellar/)
 - [Fooled by Randomness Summary – Nassim Nicholas Taleb](https://jamesbachini.com/fooled-by-randomness-summary/)
-- [The Age of Surveillance Capitalism Summary – Shoshana Zuboff](https://jamesbachini.com/the-age-of-surveillance-capitalism-summary-shoshana-zuboff/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
