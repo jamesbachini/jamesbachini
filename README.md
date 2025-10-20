@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Didn’t Want To Know About Docker and Kubernetes](https://jamesbachini.com/docker-and-kubernetes/)
 - [Privacy Preserving Auth on Stellar | BLS Ring Signatures in Soroban](https://jamesbachini.com/privacy-on-stellar/)
 - [Claude Code vs Cursor](https://jamesbachini.com/claude-code-vs-cursor/)
 - [How To Create A SEP-41 Token Airdrop Using A Merkle Tree](https://jamesbachini.com/sep-41-token-airdrop-merkle/)
 - [AI Superpowers Summary | Kai-Fu Lee](https://jamesbachini.com/ai-superpowers-summary/)
-- [6 Prompt Patterns Every Developer Should Know](https://jamesbachini.com/6-prompt-patterns-every-developer-should-know/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
