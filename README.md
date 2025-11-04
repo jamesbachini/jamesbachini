@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Querying The Stellar Blockchain &amp; Data Lake With The Stellar Data Tool](https://jamesbachini.com/stellar-data/)
 - [GraphQL vs REST API | An impartial guide for developers weighing flexibility, performance &amp; scalability](https://jamesbachini.com/graphql-vs-rest-api/)
 - [Automate Testing and Deployment with GitHub Actions](https://jamesbachini.com/github-actions/)
 - [The Power of Events: Building a Serverless Webhook on Google Cloud](https://jamesbachini.com/serverless-webhook/)
 - [DeFi and the Future of Finance Summary](https://jamesbachini.com/defi-and-the-future-of-finance-summary/)
-- [Everything You Didn’t Want To Know About Docker and Kubernetes](https://jamesbachini.com/docker-and-kubernetes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
