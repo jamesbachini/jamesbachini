@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Broken Money Summary – Lyn Alden](https://jamesbachini.com/broken-money-summary/)
 - [Building A Simple Web Server In Rust 🦀](https://jamesbachini.com/building-a-simple-web-server-in-rust-%f0%9f%a6%80/)
 - [A Developer Guide To The x402 Protocol](https://jamesbachini.com/x402-protocol/)
 - [The Death of Money Summary – James Rickards](https://jamesbachini.com/the-death-of-money-summary/)
 - [Querying The Stellar Blockchain &amp; Data Lake With The Stellar Data Tool](https://jamesbachini.com/stellar-data/)
-- [GraphQL vs REST API | An impartial guide for developers weighing flexibility, performance &amp; scalability](https://jamesbachini.com/graphql-vs-rest-api/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
