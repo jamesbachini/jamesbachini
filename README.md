@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tokenizing Real World Assets: A How To Guide For Bringing Funds On Chain](https://jamesbachini.com/tokenizing-real-world-assets/)
 - [How To Integrate Stellar Wallets Kit v2](https://jamesbachini.com/stellar-wallets-kit-v2/)
 - [Best Impartial Benchmarks For Large Language Models](https://jamesbachini.com/best-impartial-benchmarks-for-large-language-models/)
 - [Broken Money Summary – Lyn Alden](https://jamesbachini.com/broken-money-summary/)
 - [Building A Simple Web Server In Rust 🦀](https://jamesbachini.com/building-a-simple-web-server-in-rust-%f0%9f%a6%80/)
-- [A Developer Guide To The x402 Protocol](https://jamesbachini.com/x402-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
