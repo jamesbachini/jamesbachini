@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Sovereign Individual Summary](https://jamesbachini.com/the-sovereign-individual-summary/)
 - [Aztec Network Token Sale: Deep Investment Analysis Report](https://jamesbachini.com/aztec-network/)
 - [Tokenizing Real World Assets: A How To Guide For Bringing Funds On Chain](https://jamesbachini.com/tokenizing-real-world-assets/)
 - [How To Integrate Stellar Wallets Kit v2](https://jamesbachini.com/stellar-wallets-kit-v2/)
 - [Best Impartial Benchmarks For Large Language Models](https://jamesbachini.com/best-impartial-benchmarks-for-large-language-models/)
-- [Broken Money Summary – Lyn Alden](https://jamesbachini.com/broken-money-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
