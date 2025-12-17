@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Web3 Book Summary – Alex Tapscott](https://jamesbachini.com/web3-book-summary/)
 - [Solang | Writing Solidity Contracts For Stellar](https://jamesbachini.com/solang-solidity-for-stellar/)
 - [WTF is LangChain?](https://jamesbachini.com/wtf-is-langchain/)
 - [The Sovereign Individual Summary](https://jamesbachini.com/the-sovereign-individual-summary/)
 - [Aztec Network Token Sale: Deep Investment Analysis Report](https://jamesbachini.com/aztec-network/)
-- [Tokenizing Real World Assets: A How To Guide For Bringing Funds On Chain](https://jamesbachini.com/tokenizing-real-world-assets/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
