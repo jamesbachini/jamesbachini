@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating A zkApp For Selective Disclosure Of KYC Credentials](https://www.youtube.com/watch?v=ajy3G_Y4l1w)
 - [Boilerplate code for Creit Tech Stellar Wallet Kit v2](https://www.youtube.com/watch?v=bedkQE8Pb2A)
 - [Working With Data On Stellar](https://www.youtube.com/watch?v=IKUsF6kXJ_0)
 - [zkLogin | Verifying Anonymous Ring Signatures On Stellar](https://www.youtube.com/watch?v=32xCKGrf3MI)
 - [Dev Diaries S01E06 | Launch Day On Stellar Mainnet](https://www.youtube.com/watch?v=7Yf2g7meHKc)
-- [SEP-41 Token Airdrop Using OpenZeppelin Merkle Tree Distributor](https://www.youtube.com/watch?v=TqNp831aOBI)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
