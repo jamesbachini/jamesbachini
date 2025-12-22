@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Blend Auto Compounding Vault](https://jamesbachini.com/blend-vault/)
 - [Selective Disclosure KYC Using BLS Signatures On Stellar](https://jamesbachini.com/selective-disclosure/)
 - [Web3 Book Summary – Alex Tapscott](https://jamesbachini.com/web3-book-summary/)
 - [Solang | Writing Solidity Contracts For Stellar](https://jamesbachini.com/solang-solidity-for-stellar/)
 - [WTF is LangChain?](https://jamesbachini.com/wtf-is-langchain/)
-- [The Sovereign Individual Summary](https://jamesbachini.com/the-sovereign-individual-summary/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
