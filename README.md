@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [AI assisted development tip: codex --yolo](https://www.youtube.com/shorts/HZ9GidjiusY)
 - [Building Stellar Smart Accounts With OpenZeppelin Libraries](https://www.youtube.com/watch?v=Tk48qWUwLuw)
 - [Building A Vault With Blend &amp; OpenZeppelin](https://www.youtube.com/watch?v=1BAaz49M4yQ)
 - [Creating A zkApp For Selective Disclosure Of KYC Credentials](https://www.youtube.com/watch?v=ajy3G_Y4l1w)
 - [Boilerplate code for Creit Tech Stellar Wallet Kit v2](https://www.youtube.com/watch?v=bedkQE8Pb2A)
-- [Working With Data On Stellar](https://www.youtube.com/watch?v=IKUsF6kXJ_0)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
