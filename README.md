@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Creating SEP-41 Dynamic Rebasing Token Balances On Stellar](https://www.youtube.com/watch?v=nBqomLSk3Zo)
 - [The allure of blockchain development - to deploy permissionless code on a decentralized P2P network](https://www.youtube.com/shorts/jhV6UpENpGs)
 - [AI assisted development tip: codex --yolo](https://www.youtube.com/shorts/HZ9GidjiusY)
 - [Building Stellar Smart Accounts With OpenZeppelin Libraries](https://www.youtube.com/watch?v=Tk48qWUwLuw)
 - [Building A Vault With Blend &amp; OpenZeppelin](https://www.youtube.com/watch?v=1BAaz49M4yQ)
-- [Creating A zkApp For Selective Disclosure Of KYC Credentials](https://www.youtube.com/watch?v=ajy3G_Y4l1w)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
