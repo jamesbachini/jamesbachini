@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to FFmpeg | Improve Your Video Automation Skills](https://jamesbachini.com/ffmpeg/)
 - [Building a Share-Based Rebasing SEP-41 Token on Stellar](https://jamesbachini.com/rebasing-sep-41-token/)
 - [My AI Assisted Development Workflow](https://jamesbachini.com/my-ai-assisted-development-workflow/)
 - [OpenZeppelin Smart Accounts On Stellar](https://jamesbachini.com/smart-accounts-on-stellar/)
 - [Blend Auto Compounding Vault](https://jamesbachini.com/blend-vault/)
-- [Selective Disclosure KYC Using BLS Signatures On Stellar](https://jamesbachini.com/selective-disclosure/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
