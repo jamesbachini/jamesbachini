@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How To Verify Noir Circuits On Stellar](https://www.youtube.com/watch?v=AHBSZzemy9E)
 - [Zero-Knowledge Gaming Hackathon](https://www.youtube.com/shorts/E0PXr0q9gCM)
 - [Zero-Knowledge Gaming Hackathon](https://www.youtube.com/watch?v=pEnYq0a8yCk)
 - [Creating SEP-41 Dynamic Rebasing Token Balances On Stellar](https://www.youtube.com/watch?v=nBqomLSk3Zo)
 - [The allure of blockchain development - to deploy permissionless code on a decentralized P2P network](https://www.youtube.com/shorts/jhV6UpENpGs)
-- [AI assisted development tip: codex --yolo](https://www.youtube.com/shorts/HZ9GidjiusY)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
