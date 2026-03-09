@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [TypeZero | A Web3 Game Built With Stellar &amp; RISC Zero](https://www.youtube.com/watch?v=caPr0suJYAg)
 - [Noir x Groth16 Verifier](https://www.youtube.com/watch?v=bvRQjWAbAZQ)
 - [How To Verify Noir Circuits On Stellar](https://www.youtube.com/watch?v=AHBSZzemy9E)
 - [Zero-Knowledge Gaming Hackathon](https://www.youtube.com/shorts/E0PXr0q9gCM)
 - [Zero-Knowledge Gaming Hackathon](https://www.youtube.com/watch?v=pEnYq0a8yCk)
-- [Creating SEP-41 Dynamic Rebasing Token Balances On Stellar](https://www.youtube.com/watch?v=nBqomLSk3Zo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
