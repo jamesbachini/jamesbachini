@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Context Engineering For AI Models](https://jamesbachini.com/context-engineering/)
 - [Building Web3 Games With Stellar &amp; RISC Zero](https://jamesbachini.com/stellar-risc-zero-games/)
 - [How To Use The Noir Groth16 Backend](https://jamesbachini.com/noir-groth16/)
 - [How To Verify Noir Ultrahonk Circuits In A Stellar Contract](https://jamesbachini.com/noir-on-stellar/)
 - [The Complete Guide to FFmpeg | Improve Your Video Automation Skills](https://jamesbachini.com/ffmpeg/)
-- [Building a Share-Based Rebasing SEP-41 Token on Stellar](https://jamesbachini.com/rebasing-sep-41-token/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
