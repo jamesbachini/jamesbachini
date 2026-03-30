@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Claude Code Skills Gold Rush](https://jamesbachini.com/claude-skills/)
 - [How Dimensional Analysis Catches DeFi Bugs Before Deployment](https://jamesbachini.com/dimensional-analysis/)
 - [Context Engineering For AI Models](https://jamesbachini.com/context-engineering/)
 - [Building Web3 Games With Stellar &amp; RISC Zero](https://jamesbachini.com/stellar-risc-zero-games/)
 - [How To Use The Noir Groth16 Backend](https://jamesbachini.com/noir-groth16/)
-- [How To Verify Noir Ultrahonk Circuits In A Stellar Contract](https://jamesbachini.com/noir-on-stellar/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
