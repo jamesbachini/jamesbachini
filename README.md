@@ -22,11 +22,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CCTP on Stellar | Moving USDC 1:1 Across Chains](https://www.youtube.com/watch?v=oi9UaChADeE)
 - [x402 Agentic Payment Flow](https://www.youtube.com/shorts/4n_R0EYz1RQ)
 - [TypeZero | A Web3 Game Built With Stellar &amp; RISC Zero](https://www.youtube.com/watch?v=caPr0suJYAg)
 - [Noir x Groth16 Verifier](https://www.youtube.com/watch?v=bvRQjWAbAZQ)
 - [How To Verify Noir Circuits On Stellar](https://www.youtube.com/watch?v=AHBSZzemy9E)
-- [Zero-Knowledge Gaming Hackathon](https://www.youtube.com/shorts/E0PXr0q9gCM)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/jamesbachini)
