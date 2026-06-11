@@ -36,11 +36,11 @@ I dabble in blockchain development, systems trading and yield farming.
 ### 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Life Summary &gt; Actionable Advice Prompts](https://jamesbachini.com/life-summary-actionable-advice-prompts/)
 - [Circom Groth16 on Stellar](https://jamesbachini.com/circom-on-stellar/)
 - [Building With CCTP On Stellar](https://jamesbachini.com/cctp-on-stellar/)
 - [Agentic Developer Experience](https://jamesbachini.com/agentic-developer-experience/)
 - [Aave v4 Architecture](https://jamesbachini.com/aave-v4-architecture/)
-- [The Claude Code Skills Gold Rush](https://jamesbachini.com/claude-skills/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://jamesbachini.com)
